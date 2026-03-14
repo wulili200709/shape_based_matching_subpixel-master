@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\goney\Downloads\shape_based_matching_subpixel-master\shape_based_matching_subpixel-master\shape_based_matching-subpixel\python_subpixel_demo\subpixel_pybind.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\goney\Downloads\shape_based_matching_subpixel-master\shape_based_matching_subpixel-master\shape_based_matching-subpixel\shape_based_matching-subpixel\line2Dup.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\goney\Downloads\shape_based_matching_subpixel-master\shape_based_matching_subpixel-master\shape_based_matching-subpixel\shape_based_matching-subpixel\cuda_icp\icp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\goney\Downloads\shape_based_matching_subpixel-master\shape_based_matching_subpixel-master\shape_based_matching-subpixel\shape_based_matching-subpixel\cuda_icp\scene\common.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\goney\Downloads\shape_based_matching_subpixel-master\shape_based_matching_subpixel-master\shape_based_matching-subpixel\shape_based_matching-subpixel\cuda_icp\scene\edge_scene\edge_scene.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\goney\Downloads\shape_based_matching_subpixel-master\shape_based_matching_subpixel-master\shape_based_matching-subpixel\python_subpixel_demo\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{92B8ACCE-17E9-3661-860A-5945896AAA31}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,10 @@
+^C:\USERS\GONEY\DOWNLOADS\SHAPE_BASED_MATCHING_SUBPIXEL-MASTER\SHAPE_BASED_MATCHING_SUBPIXEL-MASTER\SHAPE_BASED_MATCHING-SUBPIXEL\PYTHON_SUBPIXEL_DEMO\BUILD\CMAKEFILES\AFB0CCB1F7340EDBFFA822387834DA94\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/goney/Downloads/shape_based_matching_subpixel-master/shape_based_matching_subpixel-master/shape_based_matching-subpixel/python_subpixel_demo -BC:/Users/goney/Downloads/shape_based_matching_subpixel-master/shape_based_matching_subpixel-master/shape_based_matching-subpixel/python_subpixel_demo/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/goney/Downloads/shape_based_matching_subpixel-master/shape_based_matching_subpixel-master/shape_based_matching-subpixel/python_subpixel_demo/build/sbm_subpixel_python.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

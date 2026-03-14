@@ -1,0 +1,25 @@
+%YAML:1.0
+---
+case_name: "mycase"
+class_id: "cross"
+train_image: "templ/cross.png"
+train_mask: ""
+train_edge_mask: ""
+train_padding: 80
+template_file: "cross_templ.yaml"
+info_file: "cross_info.yaml"
+test_image: "1.png"
+result_image: "result/1_runtime.png"
+num_feature: 150
+stride: 32
+top_k: 5
+min_template_width: 200
+min_template_height: 200
+angle_min: -45.
+angle_max: 45.
+angle_step: 3.
+scale_min: 0.9
+scale_max: 1.2
+scale_step: 0.5
+match_threshold: 45
+nms_threshold: 0.35

@@ -1,0 +1,3 @@
+C:/Users/goney/Downloads/shape_based_matching_subpixel-master/shape_based_matching_subpixel-master/shape_based_matching-subpixel/python_subpixel_demo/build/CMakeFiles/sbm_subpixel.dir
+C:/Users/goney/Downloads/shape_based_matching_subpixel-master/shape_based_matching_subpixel-master/shape_based_matching-subpixel/python_subpixel_demo/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/goney/Downloads/shape_based_matching_subpixel-master/shape_based_matching_subpixel-master/shape_based_matching-subpixel/python_subpixel_demo/build/CMakeFiles/ZERO_CHECK.dir

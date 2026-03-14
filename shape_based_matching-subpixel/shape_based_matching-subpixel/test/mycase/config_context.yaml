@@ -1,0 +1,25 @@
+%YAML:1.0
+---
+case_name: "mycase_context"
+class_id: "cross_context"
+train_image: "templ/cross_context.png"
+train_mask: "templ/cross_context_mask.png"
+train_edge_mask: ""
+train_padding: 36
+template_file: "cross_context_templ.yaml"
+info_file: "cross_context_info.yaml"
+test_image: "3.png"
+result_image: "result/3_context_runtime.png"
+num_feature: 120
+stride: 32
+top_k: 5
+min_template_width: 120
+min_template_height: 120
+angle_min: -20.
+angle_max: 20.
+angle_step: 2.
+scale_min: 0.95
+scale_max: 1.05
+scale_step: 0.02
+match_threshold: 55.
+nms_threshold: 0.20

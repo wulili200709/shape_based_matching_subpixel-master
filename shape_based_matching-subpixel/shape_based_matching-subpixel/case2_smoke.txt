@@ -1,0 +1,16 @@
+MIPP tests
+----------
+
+Instr. type:       NO
+Instr. full type:  NO_INTRINSICS
+Instr. version:    1
+Instr. size:       0 bits
+Instr. lanes:      1
+64-bit support:    yes
+Byte/word support: yes
+in this SIMD, int8 max is not inplemented by MIPP
+in this SIMD, int8 shuff is not inplemented by MIPP
+----------
+
+case2 matching...
+Debug|x64 can take several minutes here.

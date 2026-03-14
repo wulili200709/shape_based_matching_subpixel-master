@@ -1,0 +1,92 @@
+﻿  test.cpp
+C:\Users\goney\Downloads\shape_based_matching_subpixel-master\shape_based_matching_subpixel-master\shape_based_matching-subpixel\shape_based_matching-subpixel\cuda_icp\geometry.h(329,52): warning C4244: “初始化”: 从“const T”转换到“T”，可能丢失数据
+C:\Users\goney\Downloads\shape_based_matching_subpixel-master\shape_based_matching_subpixel-master\shape_based_matching-subpixel\shape_based_matching-subpixel\cuda_icp\geometry.h(329,52): warning C4244:         with
+C:\Users\goney\Downloads\shape_based_matching_subpixel-master\shape_based_matching_subpixel-master\shape_based_matching-subpixel\shape_based_matching-subpixel\cuda_icp\geometry.h(329,52): warning C4244:         [
+C:\Users\goney\Downloads\shape_based_matching_subpixel-master\shape_based_matching_subpixel-master\shape_based_matching-subpixel\shape_based_matching-subpixel\cuda_icp\geometry.h(329,52): warning C4244:             T=int
+C:\Users\goney\Downloads\shape_based_matching_subpixel-master\shape_based_matching_subpixel-master\shape_based_matching-subpixel\shape_based_matching-subpixel\cuda_icp\geometry.h(329,52): warning C4244:         ]
+C:\Users\goney\Downloads\shape_based_matching_subpixel-master\shape_based_matching_subpixel-master\shape_based_matching-subpixel\shape_based_matching-subpixel\cuda_icp\geometry.h(329,52): warning C4244:         and
+C:\Users\goney\Downloads\shape_based_matching_subpixel-master\shape_based_matching_subpixel-master\shape_based_matching-subpixel\shape_based_matching-subpixel\cuda_icp\geometry.h(329,52): warning C4244:         [
+C:\Users\goney\Downloads\shape_based_matching_subpixel-master\shape_based_matching_subpixel-master\shape_based_matching-subpixel\shape_based_matching-subpixel\cuda_icp\geometry.h(329,52): warning C4244:             T=float
+C:\Users\goney\Downloads\shape_based_matching_subpixel-master\shape_based_matching_subpixel-master\shape_based_matching-subpixel\shape_based_matching-subpixel\cuda_icp\geometry.h(329,52): warning C4244:         ]
+  (编译源文件“test.cpp”)
+  
+C:\Users\goney\Downloads\shape_based_matching_subpixel-master\shape_based_matching_subpixel-master\shape_based_matching-subpixel\shape_based_matching-subpixel\cuda_icp\geometry.h(329,59): warning C4244: “初始化”: 从“const T”转换到“T”，可能丢失数据
+C:\Users\goney\Downloads\shape_based_matching_subpixel-master\shape_based_matching_subpixel-master\shape_based_matching-subpixel\shape_based_matching-subpixel\cuda_icp\geometry.h(329,59): warning C4244:         with
+C:\Users\goney\Downloads\shape_based_matching_subpixel-master\shape_based_matching_subpixel-master\shape_based_matching-subpixel\shape_based_matching-subpixel\cuda_icp\geometry.h(329,59): warning C4244:         [
+C:\Users\goney\Downloads\shape_based_matching_subpixel-master\shape_based_matching_subpixel-master\shape_based_matching-subpixel\shape_based_matching-subpixel\cuda_icp\geometry.h(329,59): warning C4244:             T=int
+C:\Users\goney\Downloads\shape_based_matching_subpixel-master\shape_based_matching_subpixel-master\shape_based_matching-subpixel\shape_based_matching-subpixel\cuda_icp\geometry.h(329,59): warning C4244:         ]
+C:\Users\goney\Downloads\shape_based_matching_subpixel-master\shape_based_matching_subpixel-master\shape_based_matching-subpixel\shape_based_matching-subpixel\cuda_icp\geometry.h(329,59): warning C4244:         and
+C:\Users\goney\Downloads\shape_based_matching_subpixel-master\shape_based_matching_subpixel-master\shape_based_matching-subpixel\shape_based_matching-subpixel\cuda_icp\geometry.h(329,59): warning C4244:         [
+C:\Users\goney\Downloads\shape_based_matching_subpixel-master\shape_based_matching_subpixel-master\shape_based_matching-subpixel\shape_based_matching-subpixel\cuda_icp\geometry.h(329,59): warning C4244:             T=float
+C:\Users\goney\Downloads\shape_based_matching_subpixel-master\shape_based_matching_subpixel-master\shape_based_matching-subpixel\shape_based_matching-subpixel\cuda_icp\geometry.h(329,59): warning C4244:         ]
+  (编译源文件“test.cpp”)
+  
+C:\Users\goney\Downloads\shape_based_matching_subpixel-master\shape_based_matching_subpixel-master\shape_based_matching-subpixel\shape_based_matching-subpixel\cuda_icp\geometry.h(329,66): warning C4244: “初始化”: 从“const T”转换到“T”，可能丢失数据
+C:\Users\goney\Downloads\shape_based_matching_subpixel-master\shape_based_matching_subpixel-master\shape_based_matching-subpixel\shape_based_matching-subpixel\cuda_icp\geometry.h(329,66): warning C4244:         with
+C:\Users\goney\Downloads\shape_based_matching_subpixel-master\shape_based_matching_subpixel-master\shape_based_matching-subpixel\shape_based_matching-subpixel\cuda_icp\geometry.h(329,66): warning C4244:         [
+C:\Users\goney\Downloads\shape_based_matching_subpixel-master\shape_based_matching_subpixel-master\shape_based_matching-subpixel\shape_based_matching-subpixel\cuda_icp\geometry.h(329,66): warning C4244:             T=int
+C:\Users\goney\Downloads\shape_based_matching_subpixel-master\shape_based_matching_subpixel-master\shape_based_matching-subpixel\shape_based_matching-subpixel\cuda_icp\geometry.h(329,66): warning C4244:         ]
+C:\Users\goney\Downloads\shape_based_matching_subpixel-master\shape_based_matching_subpixel-master\shape_based_matching-subpixel\shape_based_matching-subpixel\cuda_icp\geometry.h(329,66): warning C4244:         and
+C:\Users\goney\Downloads\shape_based_matching_subpixel-master\shape_based_matching_subpixel-master\shape_based_matching-subpixel\shape_based_matching-subpixel\cuda_icp\geometry.h(329,66): warning C4244:         [
+C:\Users\goney\Downloads\shape_based_matching_subpixel-master\shape_based_matching_subpixel-master\shape_based_matching-subpixel\shape_based_matching-subpixel\cuda_icp\geometry.h(329,66): warning C4244:             T=float
+C:\Users\goney\Downloads\shape_based_matching_subpixel-master\shape_based_matching_subpixel-master\shape_based_matching-subpixel\shape_based_matching-subpixel\cuda_icp\geometry.h(329,66): warning C4244:         ]
+  (编译源文件“test.cpp”)
+  
+C:\Users\goney\Downloads\shape_based_matching_subpixel-master\shape_based_matching_subpixel-master\shape_based_matching-subpixel\shape_based_matching-subpixel\cuda_icp\geometry.h(333,52): warning C4244: “初始化”: 从“const T”转换到“T”，可能丢失数据
+C:\Users\goney\Downloads\shape_based_matching_subpixel-master\shape_based_matching_subpixel-master\shape_based_matching-subpixel\shape_based_matching-subpixel\cuda_icp\geometry.h(333,52): warning C4244:         with
+C:\Users\goney\Downloads\shape_based_matching_subpixel-master\shape_based_matching_subpixel-master\shape_based_matching-subpixel\shape_based_matching-subpixel\cuda_icp\geometry.h(333,52): warning C4244:         [
+C:\Users\goney\Downloads\shape_based_matching_subpixel-master\shape_based_matching_subpixel-master\shape_based_matching-subpixel\shape_based_matching-subpixel\cuda_icp\geometry.h(333,52): warning C4244:             T=int
+C:\Users\goney\Downloads\shape_based_matching_subpixel-master\shape_based_matching_subpixel-master\shape_based_matching-subpixel\shape_based_matching-subpixel\cuda_icp\geometry.h(333,52): warning C4244:         ]
+C:\Users\goney\Downloads\shape_based_matching_subpixel-master\shape_based_matching_subpixel-master\shape_based_matching-subpixel\shape_based_matching-subpixel\cuda_icp\geometry.h(333,52): warning C4244:         and
+C:\Users\goney\Downloads\shape_based_matching_subpixel-master\shape_based_matching_subpixel-master\shape_based_matching-subpixel\shape_based_matching-subpixel\cuda_icp\geometry.h(333,52): warning C4244:         [
+C:\Users\goney\Downloads\shape_based_matching_subpixel-master\shape_based_matching_subpixel-master\shape_based_matching-subpixel\shape_based_matching-subpixel\cuda_icp\geometry.h(333,52): warning C4244:             T=float
+C:\Users\goney\Downloads\shape_based_matching_subpixel-master\shape_based_matching_subpixel-master\shape_based_matching-subpixel\shape_based_matching-subpixel\cuda_icp\geometry.h(333,52): warning C4244:         ]
+  (编译源文件“test.cpp”)
+  
+C:\Users\goney\Downloads\shape_based_matching_subpixel-master\shape_based_matching_subpixel-master\shape_based_matching-subpixel\shape_based_matching-subpixel\cuda_icp\geometry.h(333,59): warning C4244: “初始化”: 从“const T”转换到“T”，可能丢失数据
+C:\Users\goney\Downloads\shape_based_matching_subpixel-master\shape_based_matching_subpixel-master\shape_based_matching-subpixel\shape_based_matching-subpixel\cuda_icp\geometry.h(333,59): warning C4244:         with
+C:\Users\goney\Downloads\shape_based_matching_subpixel-master\shape_based_matching_subpixel-master\shape_based_matching-subpixel\shape_based_matching-subpixel\cuda_icp\geometry.h(333,59): warning C4244:         [
+C:\Users\goney\Downloads\shape_based_matching_subpixel-master\shape_based_matching_subpixel-master\shape_based_matching-subpixel\shape_based_matching-subpixel\cuda_icp\geometry.h(333,59): warning C4244:             T=int
+C:\Users\goney\Downloads\shape_based_matching_subpixel-master\shape_based_matching_subpixel-master\shape_based_matching-subpixel\shape_based_matching-subpixel\cuda_icp\geometry.h(333,59): warning C4244:         ]
+C:\Users\goney\Downloads\shape_based_matching_subpixel-master\shape_based_matching_subpixel-master\shape_based_matching-subpixel\shape_based_matching-subpixel\cuda_icp\geometry.h(333,59): warning C4244:         and
+C:\Users\goney\Downloads\shape_based_matching_subpixel-master\shape_based_matching_subpixel-master\shape_based_matching-subpixel\shape_based_matching-subpixel\cuda_icp\geometry.h(333,59): warning C4244:         [
+C:\Users\goney\Downloads\shape_based_matching_subpixel-master\shape_based_matching_subpixel-master\shape_based_matching-subpixel\shape_based_matching-subpixel\cuda_icp\geometry.h(333,59): warning C4244:             T=float
+C:\Users\goney\Downloads\shape_based_matching_subpixel-master\shape_based_matching_subpixel-master\shape_based_matching-subpixel\shape_based_matching-subpixel\cuda_icp\geometry.h(333,59): warning C4244:         ]
+  (编译源文件“test.cpp”)
+  
+C:\Users\goney\Downloads\shape_based_matching_subpixel-master\shape_based_matching_subpixel-master\shape_based_matching-subpixel\shape_based_matching-subpixel\line2Dup.hpp(251,63): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+  (编译源文件“test.cpp”)
+  
+C:\Users\goney\Downloads\shape_based_matching_subpixel-master\shape_based_matching_subpixel-master\shape_based_matching-subpixel\shape_based_matching-subpixel\line2Dup.hpp(253,66): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+  (编译源文件“test.cpp”)
+  
+C:\Users\goney\Downloads\shape_based_matching_subpixel-master\shape_based_matching_subpixel-master\shape_based_matching-subpixel\shape_based_matching-subpixel\line2Dup.hpp(343,17): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“test.cpp”)
+  
+C:\Users\goney\Downloads\shape_based_matching_subpixel-master\shape_based_matching_subpixel-master\shape_based_matching-subpixel\shape_based_matching-subpixel\test.cpp(632,18): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\goney\Downloads\shape_based_matching_subpixel-master\shape_based_matching_subpixel-master\shape_based_matching-subpixel\shape_based_matching-subpixel\test.cpp(685,25): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+C:\Users\goney\Downloads\shape_based_matching_subpixel-master\shape_based_matching_subpixel-master\shape_based_matching-subpixel\shape_based_matching-subpixel\test.cpp(686,25): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\utility(303,61): warning C4244: “初始化”: 从“_Ty”转换到“_Ty2”，可能丢失数据
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\utility(303,61): warning C4244:         with
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\utility(303,61): warning C4244:         [
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\utility(303,61): warning C4244:             _Ty=unsigned __int64
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\utility(303,61): warning C4244:         ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\utility(303,61): warning C4244:         and
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\utility(303,61): warning C4244:         [
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\utility(303,61): warning C4244:             _Ty2=int
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\utility(303,61): warning C4244:         ]
+  (编译源文件“test.cpp”)
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\utility(303,61):
+      模板实例化上下文(最早的实例化上下文)为
+          C:\Users\goney\Downloads\shape_based_matching_subpixel-master\shape_based_matching_subpixel-master\shape_based_matching-subpixel\shape_based_matching-subpixel\test.cpp(269,53):
+          查看对正在编译的函数 模板 实例化“std::pair<float,int>::pair<float,unsigned __int64,0>(std::pair<float,unsigned __int64> &&) noexcept”的引用
+              C:\Users\goney\Downloads\shape_based_matching_subpixel-master\shape_based_matching_subpixel-master\shape_based_matching-subpixel\shape_based_matching-subpixel\test.cpp(269,38):
+              请参阅 "cv_dnn::GetMaxScoreIndex" 中对 "std::pair<float,int>::pair" 的第一个引用
+  
+  正在生成代码
+  39 of 4121 functions ( 0.9%) were compiled, the rest were copied from previous compilation.
+    9 functions were new in current compilation
+    146 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  shape_based_matching-subpixel.vcxproj -> C:\Users\goney\Downloads\shape_based_matching_subpixel-master\shape_based_matching_subpixel-master\shape_based_matching-subpixel\x64\Release\shape_based_matching-subpixel.exe
+  已复制         1 个文件。

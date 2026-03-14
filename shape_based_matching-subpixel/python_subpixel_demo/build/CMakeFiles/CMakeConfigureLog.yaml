@@ -1,0 +1,2125 @@
+
+---
+events:
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-4.2/Modules/CMakeDetermineSystem.cmake:212 (message)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      The system is: Windows - 10.0.26200 - AMD64
+  -
+    kind: "find-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-4.2/Modules/CMakeDetermineCompilerId.cmake:462 (find_file)"
+      - "C:/Program Files/CMake/share/cmake-4.2/Modules/CMakeDetermineCompilerId.cmake:500 (CMAKE_DETERMINE_COMPILER_ID_WRITE)"
+      - "C:/Program Files/CMake/share/cmake-4.2/Modules/CMakeDetermineCompilerId.cmake:8 (CMAKE_DETERMINE_COMPILER_ID_BUILD)"
+      - "C:/Program Files/CMake/share/cmake-4.2/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "C:/Program Files/CMake/share/cmake-4.2/Modules/CMakeDetermineCXXCompiler.cmake:125 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:2 (project)"
+    mode: "file"
+    variable: "src_in"
+    description: "Path to a file."
+    settings:
+      SearchFramework: "NEVER"
+      SearchAppBundle: "NEVER"
+      CMAKE_FIND_USE_CMAKE_PATH: true
+      CMAKE_FIND_USE_CMAKE_ENVIRONMENT_PATH: true
+      CMAKE_FIND_USE_SYSTEM_ENVIRONMENT_PATH: true
+      CMAKE_FIND_USE_CMAKE_SYSTEM_PATH: true
+      CMAKE_FIND_USE_INSTALL_PREFIX: true
+    names:
+      - "CMakeCXXCompilerId.cpp.in"
+    candidate_directories:
+      - "C:/Program Files/CMake/share/cmake-4.2/Modules/"
+    found: "C:/Program Files/CMake/share/cmake-4.2/Modules/CMakeCXXCompilerId.cpp.in"
+    search_context:
+      ENV{CMAKE_PREFIX_PATH}:
+        - "C:\\Program Files\\Basler\\pylon 7\\Development\\CMake\\pylon\\"
+      ENV{PATH}:
+        - "C:\\Program Files\\VisionMaster4.4.0\\Applications\\PublicFile\\x64"
+        - "C:\\Program Files\\VisionMaster4.4.0\\Applications\\PublicFile\\x86"
+        - "C:\\Program Files\\VisionMaster4.4.0\\MVDAlgorithmSDK\\Runtime\\Win32"
+        - "C:\\Program Files\\VisionMaster4.4.0\\MVDAlgorithmSDK\\Runtime\\x64"
+        - "C:\\Program Files (x86)\\Common Files\\MVS\\Runtime\\Win32_i86"
+        - "C:\\Program Files (x86)\\Common Files\\MVS\\Runtime\\Win64_x64"
+        - "C:\\Program Files\\Basler\\pylon 7\\Runtime\\x64\\"
+        - "C:\\Program Files\\Basler\\pylon 7\\Runtime\\Win32\\"
+        - "C:\\WINDOWS\\system32"
+        - "C:\\WINDOWS"
+        - "C:\\WINDOWS\\System32\\Wbem"
+        - "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\"
+        - "C:\\WINDOWS\\System32\\OpenSSH\\"
+        - "C:\\Program Files\\Microsoft SQL Server\\150\\Tools\\Binn\\"
+        - "C:\\Program Files\\Microsoft SQL Server\\Client SDK\\ODBC\\170\\Tools\\Binn\\"
+        - "C:\\Program Files\\dotnet\\"
+        - "C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance Toolkit\\"
+        - "C:\\Program Files\\Git\\cmd"
+        - "C:\\Program Files\\nodejs\\"
+        - "C:\\Program Files\\cursor\\resources\\app\\bin"
+        - "C:\\Program Files (x86)\\Common Files\\MVS\\Runtime\\Win32_i86"
+        - "C:\\Program Files (x86)\\Common Files\\MVS\\Runtime\\Win64_x64"
+        - "C:\\Program Files\\VisionMaster4.3.0\\Applications\\PublicFile\\x64"
+        - "C:\\Program Files\\VisionMaster4.3.0\\Applications\\PublicFile\\x86"
+        - "C:\\Program Files (x86)\\MVDAlgorithmSDK\\Runtime\\Win32"
+        - "C:\\Program Files (x86)\\MVDAlgorithmSDK\\Runtime\\x64"
+        - "C:\\Program Files\\Basler\\pylon 7\\Runtime\\x64\\"
+        - "C:\\Program Files\\Basler\\pylon 7\\Runtime\\Win32\\"
+        - "C:\\WINDOWS\\system32"
+        - "C:\\WINDOWS"
+        - "C:\\WINDOWS\\System32\\Wbem"
+        - "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\"
+        - "C:\\WINDOWS\\System32\\OpenSSH\\"
+        - "C:\\Program Files\\Microsoft SQL Server\\150\\Tools\\Binn\\"
+        - "C:\\Program Files\\Microsoft SQL Server\\Client SDK\\ODBC\\170\\Tools\\Binn\\"
+        - "C:\\Program Files\\dotnet\\"
+        - "C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance Toolkit\\"
+        - "C:\\Program Files\\Git\\cmd"
+        - "C:\\Program Files\\nodejs\\"
+        - "C:\\Users\\goney\\AppData\\Local\\Programs\\MVTec\\HALCON-25.05-Progress\\bin\\x64-win64"
+        - "C:\\Users\\goney\\AppData\\Local\\Programs\\Python\\Python310\\Scripts\\"
+        - "C:\\Users\\goney\\AppData\\Local\\Programs\\Python\\Python310\\"
+        - "C:\\Users\\goney\\AppData\\Local\\Programs\\Python\\Python312\\Scripts\\"
+        - "C:\\Users\\goney\\AppData\\Local\\Programs\\Python\\Python312\\"
+        - "C:\\Users\\goney\\AppData\\Local\\Programs\\Python\\Launcher\\"
+        - "C:\\Users\\goney\\AppData\\Local\\Microsoft\\WindowsApps"
+        - "C:\\Users\\goney\\.dotnet\\tools"
+        - "C:\\Users\\goney\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
+        - "C:\\Users\\goney\\AppData\\Roaming\\npm"
+        - "C:\\Users\\goney\\.local\\bin"
+        - "C:\\Users\\goney\\.local\\bin"
+        - "C:\\Users\\goney\\AppData\\Local\\Programs\\Antigravity\\bin"
+        - "C:\\opencv\\build\\x64\\vc16\\bin"
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-4.2/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "C:/Program Files/CMake/share/cmake-4.2/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "C:/Program Files/CMake/share/cmake-4.2/Modules/CMakeDetermineCXXCompiler.cmake:125 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+      Compiler:  
+      Build flags: 
+      Id flags:  
+      
+      The output was:
+      0
+      閫傜敤浜?.NET Framework MSBuild 鐗堟湰 17.14.18+a338add32
+      鐢熸垚鍚姩鏃堕棿涓?2026/3/6 14:38:12銆?
+      
+      鑺傜偣 1 涓婄殑椤圭洰鈥淐:\\Users\\goney\\Downloads\\shape_based_matching_subpixel-master\\shape_based_matching_subpixel-master\\shape_based_matching-subpixel\\python_subpixel_demo\\build\\CMakeFiles\\4.2.3\\CompilerIdCXX\\CompilerIdCXX.vcxproj鈥?榛樿鐩爣)銆?
+      PrepareForBuild:
+        姝ｅ湪鍒涘缓鐩綍鈥淒ebug\\鈥濄€?
+        宸插惎鐢ㄧ粨鏋勫寲杈撳嚭銆傜紪璇戝櫒璇婃柇鐨勬牸寮忚缃皢鍙嶆槧閿欒灞傛缁撴瀯銆傛湁鍏宠缁嗕俊鎭紝璇峰弬闃?https://aka.ms/cpp/structured-output銆?
+        姝ｅ湪鍒涘缓鐩綍鈥淒ebug\\CompilerIdCXX.tlog\\鈥濄€?
+      InitializeBuildStatus:
+        姝ｅ湪鍒涘缓鈥淒ebug\\CompilerIdCXX.tlog\\unsuccessfulbuild鈥濓紝鍥犱负宸叉寚瀹氣€淎lwaysCreate鈥濄€?
+        姝ｅ湪瀵光€淒ebug\\CompilerIdCXX.tlog\\unsuccessfulbuild鈥濇墽琛?Touch 浠诲姟銆?
+      ClCompile:
+        C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\CL.exe /c /nologo /W0 /WX- /diagnostics:column /Od /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\\\" /Fd"Debug\\vc143.pdb" /external:W0 /Gd /TP /FC /errorReport:queue CMakeCXXCompilerId.cpp
+        CMakeCXXCompilerId.cpp
+      Link:
+        C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:".\\CompilerIdCXX.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:".\\CompilerIdCXX.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\\CompilerIdCXX.lib" /MACHINE:X64 Debug\\CMakeCXXCompilerId.obj
+        CompilerIdCXX.vcxproj -> C:\\Users\\goney\\Downloads\\shape_based_matching_subpixel-master\\shape_based_matching_subpixel-master\\shape_based_matching-subpixel\\python_subpixel_demo\\build\\CMakeFiles\\4.2.3\\CompilerIdCXX\\CompilerIdCXX.exe
+      PostBuildEvent:
+        for %%i in (cl.exe) do @echo CMAKE_CXX_COMPILER=%%~$PATH:i
+        :VCEnd
+        CMAKE_CXX_COMPILER=C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe
+      FinalizeBuildStatus:
+        姝ｅ湪鍒犻櫎鏂囦欢鈥淒ebug\\CompilerIdCXX.tlog\\unsuccessfulbuild鈥濄€?
+        姝ｅ湪瀵光€淒ebug\\CompilerIdCXX.tlog\\CompilerIdCXX.lastbuildstate鈥濇墽琛?Touch 浠诲姟銆?
+      宸插畬鎴愮敓鎴愰」鐩€淐:\\Users\\goney\\Downloads\\shape_based_matching_subpixel-master\\shape_based_matching_subpixel-master\\shape_based_matching-subpixel\\python_subpixel_demo\\build\\CMakeFiles\\4.2.3\\CompilerIdCXX\\CompilerIdCXX.vcxproj鈥?榛樿鐩爣)鐨勬搷浣溿€?
+      
+      宸叉垚鍔熺敓鎴愩€?
+          0 涓鍛?
+          0 涓敊璇?
+      
+      宸茬敤鏃堕棿 00:00:01.27
+      
+      
+      Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CompilerIdCXX.exe"
+      
+      Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CompilerIdCXX.vcxproj"
+      
+      The CXX compiler identification is MSVC, found in:
+        C:/Users/goney/Downloads/shape_based_matching_subpixel-master/shape_based_matching_subpixel-master/shape_based_matching-subpixel/python_subpixel_demo/build/CMakeFiles/4.2.3/CompilerIdCXX/CompilerIdCXX.exe
+      
+  -
+    kind: "find-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-4.2/Modules/CMakeFindBinUtils.cmake:37 (find_program)"
+      - "C:/Program Files/CMake/share/cmake-4.2/Modules/CMakeFindBinUtils.cmake:65 (__resolve_tool_path)"
+      - "C:/Program Files/CMake/share/cmake-4.2/Modules/CMakeFindBinUtils.cmake:103 (__resolve_linker_path)"
+      - "C:/Program Files/CMake/share/cmake-4.2/Modules/CMakeDetermineCXXCompiler.cmake:206 (include)"
+      - "CMakeLists.txt:2 (project)"
+    mode: "program"
+    variable: "_CMAKE_TOOL_WITH_PATH"
+    description: "Path to a program."
+    settings:
+      SearchFramework: "NEVER"
+      SearchAppBundle: "NEVER"
+      CMAKE_FIND_USE_CMAKE_PATH: false
+      CMAKE_FIND_USE_CMAKE_ENVIRONMENT_PATH: false
+      CMAKE_FIND_USE_SYSTEM_ENVIRONMENT_PATH: true
+      CMAKE_FIND_USE_CMAKE_SYSTEM_PATH: true
+      CMAKE_FIND_USE_INSTALL_PREFIX: true
+    names:
+      - "link"
+    candidate_directories:
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.44.35207/bin/Hostx64/x64/"
+      - "C:/Program Files/VisionMaster4.4.0/Applications/PublicFile/x64/"
+      - "C:/Program Files/VisionMaster4.4.0/Applications/PublicFile/x86/"
+      - "C:/Program Files/VisionMaster4.4.0/MVDAlgorithmSDK/Runtime/win32/"
+      - "C:/Program Files/VisionMaster4.4.0/MVDAlgorithmSDK/Runtime/x64/"
+      - "C:/Program Files (x86)/Common Files/MVS/Runtime/Win32_i86/"
+      - "C:/Program Files (x86)/Common Files/MVS/Runtime/Win64_x64/"
+      - "C:/Program Files/Basler/pylon 7/Runtime/x64/"
+      - "C:/Program Files/Basler/pylon 7/Runtime/Win32/"
+      - "C:/Windows/System32/"
+      - "C:/Windows/"
+      - "C:/Windows/System32/wbem/"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/"
+      - "C:/Windows/System32/OpenSSH/"
+      - "C:/Program Files/Microsoft SQL Server/150/Tools/Binn/"
+      - "C:/Program Files/Microsoft SQL Server/Client SDK/ODBC/170/Tools/Binn/"
+      - "C:/Program Files/dotnet/"
+      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/"
+      - "C:/Program Files/Git/cmd/"
+      - "C:/Program Files/nodejs/"
+      - "C:/Program Files/cursor/resources/app/bin/"
+      - "C:/Program Files/VisionMaster4.3.0/Applications/PublicFile/x64/"
+      - "C:/Program Files/VisionMaster4.3.0/Applications/PublicFile/x86/"
+      - "C:/Program Files (x86)/MVDAlgorithmSDK/Runtime/Win32/"
+      - "C:/Program Files (x86)/MVDAlgorithmSDK/Runtime/x64/"
+      - "C:/Users/goney/AppData/Local/Programs/MVTec/HALCON-25.05-Progress/bin/x64-win64/"
+      - "C:/Users/goney/AppData/Local/Programs/Python/Python310/Scripts/"
+      - "C:/Users/goney/AppData/Local/Programs/Python/Python310/"
+      - "C:/Users/goney/AppData/Local/Programs/Python/Python312/Scripts/"
+      - "C:/Users/goney/AppData/Local/Programs/Python/Python312/"
+      - "C:/Users/goney/AppData/Local/Programs/Python/Launcher/"
+      - "C:/Users/goney/AppData/Local/Microsoft/WindowsApps/"
+      - "C:/Users/goney/.dotnet/tools/"
+      - "C:/Users/goney/AppData/Local/Programs/Microsoft VS Code/bin/"
+      - "C:/Users/goney/AppData/Roaming/npm/"
+      - "C:/Users/goney/.local/bin/"
+      - "C:/Users/goney/AppData/Local/Programs/Antigravity/bin/"
+      - "C:/opencv/build/x64/vc16/bin/"
+    searched_directories:
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.44.35207/bin/Hostx64/x64/link.com"
+    found: "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.44.35207/bin/Hostx64/x64/link.exe"
+    search_context:
+      ENV{CMAKE_PREFIX_PATH}:
+        - "C:\\Program Files\\Basler\\pylon 7\\Development\\CMake\\pylon\\"
+      ENV{PATH}:
+        - "C:\\Program Files\\VisionMaster4.4.0\\Applications\\PublicFile\\x64"
+        - "C:\\Program Files\\VisionMaster4.4.0\\Applications\\PublicFile\\x86"
+        - "C:\\Program Files\\VisionMaster4.4.0\\MVDAlgorithmSDK\\Runtime\\Win32"
+        - "C:\\Program Files\\VisionMaster4.4.0\\MVDAlgorithmSDK\\Runtime\\x64"
+        - "C:\\Program Files (x86)\\Common Files\\MVS\\Runtime\\Win32_i86"
+        - "C:\\Program Files (x86)\\Common Files\\MVS\\Runtime\\Win64_x64"
+        - "C:\\Program Files\\Basler\\pylon 7\\Runtime\\x64\\"
+        - "C:\\Program Files\\Basler\\pylon 7\\Runtime\\Win32\\"
+        - "C:\\WINDOWS\\system32"
+        - "C:\\WINDOWS"
+        - "C:\\WINDOWS\\System32\\Wbem"
+        - "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\"
+        - "C:\\WINDOWS\\System32\\OpenSSH\\"
+        - "C:\\Program Files\\Microsoft SQL Server\\150\\Tools\\Binn\\"
+        - "C:\\Program Files\\Microsoft SQL Server\\Client SDK\\ODBC\\170\\Tools\\Binn\\"
+        - "C:\\Program Files\\dotnet\\"
+        - "C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance Toolkit\\"
+        - "C:\\Program Files\\Git\\cmd"
+        - "C:\\Program Files\\nodejs\\"
+        - "C:\\Program Files\\cursor\\resources\\app\\bin"
+        - "C:\\Program Files (x86)\\Common Files\\MVS\\Runtime\\Win32_i86"
+        - "C:\\Program Files (x86)\\Common Files\\MVS\\Runtime\\Win64_x64"
+        - "C:\\Program Files\\VisionMaster4.3.0\\Applications\\PublicFile\\x64"
+        - "C:\\Program Files\\VisionMaster4.3.0\\Applications\\PublicFile\\x86"
+        - "C:\\Program Files (x86)\\MVDAlgorithmSDK\\Runtime\\Win32"
+        - "C:\\Program Files (x86)\\MVDAlgorithmSDK\\Runtime\\x64"
+        - "C:\\Program Files\\Basler\\pylon 7\\Runtime\\x64\\"
+        - "C:\\Program Files\\Basler\\pylon 7\\Runtime\\Win32\\"
+        - "C:\\WINDOWS\\system32"
+        - "C:\\WINDOWS"
+        - "C:\\WINDOWS\\System32\\Wbem"
+        - "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\"
+        - "C:\\WINDOWS\\System32\\OpenSSH\\"
+        - "C:\\Program Files\\Microsoft SQL Server\\150\\Tools\\Binn\\"
+        - "C:\\Program Files\\Microsoft SQL Server\\Client SDK\\ODBC\\170\\Tools\\Binn\\"
+        - "C:\\Program Files\\dotnet\\"
+        - "C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance Toolkit\\"
+        - "C:\\Program Files\\Git\\cmd"
+        - "C:\\Program Files\\nodejs\\"
+        - "C:\\Users\\goney\\AppData\\Local\\Programs\\MVTec\\HALCON-25.05-Progress\\bin\\x64-win64"
+        - "C:\\Users\\goney\\AppData\\Local\\Programs\\Python\\Python310\\Scripts\\"
+        - "C:\\Users\\goney\\AppData\\Local\\Programs\\Python\\Python310\\"
+        - "C:\\Users\\goney\\AppData\\Local\\Programs\\Python\\Python312\\Scripts\\"
+        - "C:\\Users\\goney\\AppData\\Local\\Programs\\Python\\Python312\\"
+        - "C:\\Users\\goney\\AppData\\Local\\Programs\\Python\\Launcher\\"
+        - "C:\\Users\\goney\\AppData\\Local\\Microsoft\\WindowsApps"
+        - "C:\\Users\\goney\\.dotnet\\tools"
+        - "C:\\Users\\goney\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
+        - "C:\\Users\\goney\\AppData\\Roaming\\npm"
+        - "C:\\Users\\goney\\.local\\bin"
+        - "C:\\Users\\goney\\.local\\bin"
+        - "C:\\Users\\goney\\AppData\\Local\\Programs\\Antigravity\\bin"
+        - "C:\\opencv\\build\\x64\\vc16\\bin"
+  -
+    kind: "find-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-4.2/Modules/CMakeFindBinUtils.cmake:37 (find_program)"
+      - "C:/Program Files/CMake/share/cmake-4.2/Modules/CMakeFindBinUtils.cmake:65 (__resolve_tool_path)"
+      - "C:/Program Files/CMake/share/cmake-4.2/Modules/CMakeFindBinUtils.cmake:104 (__resolve_linker_path)"
+      - "C:/Program Files/CMake/share/cmake-4.2/Modules/CMakeDetermineCXXCompiler.cmake:206 (include)"
+      - "CMakeLists.txt:2 (project)"
+    mode: "program"
+    variable: "_CMAKE_TOOL_WITH_PATH"
+    description: "Path to a program."
+    settings:
+      SearchFramework: "NEVER"
+      SearchAppBundle: "NEVER"
+      CMAKE_FIND_USE_CMAKE_PATH: false
+      CMAKE_FIND_USE_CMAKE_ENVIRONMENT_PATH: false
+      CMAKE_FIND_USE_SYSTEM_ENVIRONMENT_PATH: true
+      CMAKE_FIND_USE_CMAKE_SYSTEM_PATH: true
+      CMAKE_FIND_USE_INSTALL_PREFIX: true
+    names:
+      - "lld-link"
+    candidate_directories:
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.44.35207/bin/Hostx64/x64/"
+      - "C:/Program Files/VisionMaster4.4.0/Applications/PublicFile/x64/"
+      - "C:/Program Files/VisionMaster4.4.0/Applications/PublicFile/x86/"
+      - "C:/Program Files/VisionMaster4.4.0/MVDAlgorithmSDK/Runtime/win32/"
+      - "C:/Program Files/VisionMaster4.4.0/MVDAlgorithmSDK/Runtime/x64/"
+      - "C:/Program Files (x86)/Common Files/MVS/Runtime/Win32_i86/"
+      - "C:/Program Files (x86)/Common Files/MVS/Runtime/Win64_x64/"
+      - "C:/Program Files/Basler/pylon 7/Runtime/x64/"
+      - "C:/Program Files/Basler/pylon 7/Runtime/Win32/"
+      - "C:/Windows/System32/"
+      - "C:/Windows/"
+      - "C:/Windows/System32/wbem/"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/"
+      - "C:/Windows/System32/OpenSSH/"
+      - "C:/Program Files/Microsoft SQL Server/150/Tools/Binn/"
+      - "C:/Program Files/Microsoft SQL Server/Client SDK/ODBC/170/Tools/Binn/"
+      - "C:/Program Files/dotnet/"
+      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/"
+      - "C:/Program Files/Git/cmd/"
+      - "C:/Program Files/nodejs/"
+      - "C:/Program Files/cursor/resources/app/bin/"
+      - "C:/Program Files/VisionMaster4.3.0/Applications/PublicFile/x64/"
+      - "C:/Program Files/VisionMaster4.3.0/Applications/PublicFile/x86/"
+      - "C:/Program Files (x86)/MVDAlgorithmSDK/Runtime/Win32/"
+      - "C:/Program Files (x86)/MVDAlgorithmSDK/Runtime/x64/"
+      - "C:/Users/goney/AppData/Local/Programs/MVTec/HALCON-25.05-Progress/bin/x64-win64/"
+      - "C:/Users/goney/AppData/Local/Programs/Python/Python310/Scripts/"
+      - "C:/Users/goney/AppData/Local/Programs/Python/Python310/"
+      - "C:/Users/goney/AppData/Local/Programs/Python/Python312/Scripts/"
+      - "C:/Users/goney/AppData/Local/Programs/Python/Python312/"
+      - "C:/Users/goney/AppData/Local/Programs/Python/Launcher/"
+      - "C:/Users/goney/AppData/Local/Microsoft/WindowsApps/"
+      - "C:/Users/goney/.dotnet/tools/"
+      - "C:/Users/goney/AppData/Local/Programs/Microsoft VS Code/bin/"
+      - "C:/Users/goney/AppData/Roaming/npm/"
+      - "C:/Users/goney/.local/bin/"
+      - "C:/Users/goney/AppData/Local/Programs/Antigravity/bin/"
+      - "C:/opencv/build/x64/vc16/bin/"
+    searched_directories:
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.44.35207/bin/Hostx64/x64/lld-link.com"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.44.35207/bin/Hostx64/x64/lld-link.exe"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.44.35207/bin/Hostx64/x64/lld-link"
+      - "C:/Program Files/VisionMaster4.4.0/Applications/PublicFile/x64/lld-link.com"
+      - "C:/Program Files/VisionMaster4.4.0/Applications/PublicFile/x64/lld-link.exe"
+      - "C:/Program Files/VisionMaster4.4.0/Applications/PublicFile/x64/lld-link"
+      - "C:/Program Files/VisionMaster4.4.0/Applications/PublicFile/x86/lld-link.com"
+      - "C:/Program Files/VisionMaster4.4.0/Applications/PublicFile/x86/lld-link.exe"
+      - "C:/Program Files/VisionMaster4.4.0/Applications/PublicFile/x86/lld-link"
+      - "C:/Program Files/VisionMaster4.4.0/MVDAlgorithmSDK/Runtime/win32/lld-link.com"
+      - "C:/Program Files/VisionMaster4.4.0/MVDAlgorithmSDK/Runtime/win32/lld-link.exe"
+      - "C:/Program Files/VisionMaster4.4.0/MVDAlgorithmSDK/Runtime/win32/lld-link"
+      - "C:/Program Files/VisionMaster4.4.0/MVDAlgorithmSDK/Runtime/x64/lld-link.com"
+      - "C:/Program Files/VisionMaster4.4.0/MVDAlgorithmSDK/Runtime/x64/lld-link.exe"
+      - "C:/Program Files/VisionMaster4.4.0/MVDAlgorithmSDK/Runtime/x64/lld-link"
+      - "C:/Program Files (x86)/Common Files/MVS/Runtime/Win32_i86/lld-link.com"
+      - "C:/Program Files (x86)/Common Files/MVS/Runtime/Win32_i86/lld-link.exe"
+      - "C:/Program Files (x86)/Common Files/MVS/Runtime/Win32_i86/lld-link"
+      - "C:/Program Files (x86)/Common Files/MVS/Runtime/Win64_x64/lld-link.com"
+      - "C:/Program Files (x86)/Common Files/MVS/Runtime/Win64_x64/lld-link.exe"
+      - "C:/Program Files (x86)/Common Files/MVS/Runtime/Win64_x64/lld-link"
+      - "C:/Program Files/Basler/pylon 7/Runtime/x64/lld-link.com"
+      - "C:/Program Files/Basler/pylon 7/Runtime/x64/lld-link.exe"
+      - "C:/Program Files/Basler/pylon 7/Runtime/x64/lld-link"
+      - "C:/Program Files/Basler/pylon 7/Runtime/Win32/lld-link.com"
+      - "C:/Program Files/Basler/pylon 7/Runtime/Win32/lld-link.exe"
+      - "C:/Program Files/Basler/pylon 7/Runtime/Win32/lld-link"
+      - "C:/Windows/System32/lld-link.com"
+      - "C:/Windows/System32/lld-link.exe"
+      - "C:/Windows/System32/lld-link"
+      - "C:/Windows/lld-link.com"
+      - "C:/Windows/lld-link.exe"
+      - "C:/Windows/lld-link"
+      - "C:/Windows/System32/wbem/lld-link.com"
+      - "C:/Windows/System32/wbem/lld-link.exe"
+      - "C:/Windows/System32/wbem/lld-link"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/lld-link.com"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/lld-link.exe"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/lld-link"
+      - "C:/Windows/System32/OpenSSH/lld-link.com"
+      - "C:/Windows/System32/OpenSSH/lld-link.exe"
+      - "C:/Windows/System32/OpenSSH/lld-link"
+      - "C:/Program Files/Microsoft SQL Server/150/Tools/Binn/lld-link.com"
+      - "C:/Program Files/Microsoft SQL Server/150/Tools/Binn/lld-link.exe"
+      - "C:/Program Files/Microsoft SQL Server/150/Tools/Binn/lld-link"
+      - "C:/Program Files/Microsoft SQL Server/Client SDK/ODBC/170/Tools/Binn/lld-link.com"
+      - "C:/Program Files/Microsoft SQL Server/Client SDK/ODBC/170/Tools/Binn/lld-link.exe"
+      - "C:/Program Files/Microsoft SQL Server/Client SDK/ODBC/170/Tools/Binn/lld-link"
+      - "C:/Program Files/dotnet/lld-link.com"
+      - "C:/Program Files/dotnet/lld-link.exe"
+      - "C:/Program Files/dotnet/lld-link"
+      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/lld-link.com"
+      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/lld-link.exe"
+      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/lld-link"
+      - "C:/Program Files/Git/cmd/lld-link.com"
+      - "C:/Program Files/Git/cmd/lld-link.exe"
+      - "C:/Program Files/Git/cmd/lld-link"
+      - "C:/Program Files/nodejs/lld-link.com"
+      - "C:/Program Files/nodejs/lld-link.exe"
+      - "C:/Program Files/nodejs/lld-link"
+      - "C:/Program Files/cursor/resources/app/bin/lld-link.com"
+      - "C:/Program Files/cursor/resources/app/bin/lld-link.exe"
+      - "C:/Program Files/cursor/resources/app/bin/lld-link"
+      - "C:/Program Files/VisionMaster4.3.0/Applications/PublicFile/x64/lld-link.com"
+      - "C:/Program Files/VisionMaster4.3.0/Applications/PublicFile/x64/lld-link.exe"
+      - "C:/Program Files/VisionMaster4.3.0/Applications/PublicFile/x64/lld-link"
+      - "C:/Program Files/VisionMaster4.3.0/Applications/PublicFile/x86/lld-link.com"
+      - "C:/Program Files/VisionMaster4.3.0/Applications/PublicFile/x86/lld-link.exe"
+      - "C:/Program Files/VisionMaster4.3.0/Applications/PublicFile/x86/lld-link"
+      - "C:/Program Files (x86)/MVDAlgorithmSDK/Runtime/Win32/lld-link.com"
+      - "C:/Program Files (x86)/MVDAlgorithmSDK/Runtime/Win32/lld-link.exe"
+      - "C:/Program Files (x86)/MVDAlgorithmSDK/Runtime/Win32/lld-link"
+      - "C:/Program Files (x86)/MVDAlgorithmSDK/Runtime/x64/lld-link.com"
+      - "C:/Program Files (x86)/MVDAlgorithmSDK/Runtime/x64/lld-link.exe"
+      - "C:/Program Files (x86)/MVDAlgorithmSDK/Runtime/x64/lld-link"
+      - "C:/Users/goney/AppData/Local/Programs/MVTec/HALCON-25.05-Progress/bin/x64-win64/lld-link.com"
+      - "C:/Users/goney/AppData/Local/Programs/MVTec/HALCON-25.05-Progress/bin/x64-win64/lld-link.exe"
+      - "C:/Users/goney/AppData/Local/Programs/MVTec/HALCON-25.05-Progress/bin/x64-win64/lld-link"
+      - "C:/Users/goney/AppData/Local/Programs/Python/Python310/Scripts/lld-link.com"
+      - "C:/Users/goney/AppData/Local/Programs/Python/Python310/Scripts/lld-link.exe"
+      - "C:/Users/goney/AppData/Local/Programs/Python/Python310/Scripts/lld-link"
+      - "C:/Users/goney/AppData/Local/Programs/Python/Python310/lld-link.com"
+      - "C:/Users/goney/AppData/Local/Programs/Python/Python310/lld-link.exe"
+      - "C:/Users/goney/AppData/Local/Programs/Python/Python310/lld-link"
+      - "C:/Users/goney/AppData/Local/Programs/Python/Python312/Scripts/lld-link.com"
+      - "C:/Users/goney/AppData/Local/Programs/Python/Python312/Scripts/lld-link.exe"
+      - "C:/Users/goney/AppData/Local/Programs/Python/Python312/Scripts/lld-link"
+      - "C:/Users/goney/AppData/Local/Programs/Python/Python312/lld-link.com"
+      - "C:/Users/goney/AppData/Local/Programs/Python/Python312/lld-link.exe"
+      - "C:/Users/goney/AppData/Local/Programs/Python/Python312/lld-link"
+      - "C:/Users/goney/AppData/Local/Programs/Python/Launcher/lld-link.com"
+      - "C:/Users/goney/AppData/Local/Programs/Python/Launcher/lld-link.exe"
+      - "C:/Users/goney/AppData/Local/Programs/Python/Launcher/lld-link"
+      - "C:/Users/goney/AppData/Local/Microsoft/WindowsApps/lld-link.com"
+      - "C:/Users/goney/AppData/Local/Microsoft/WindowsApps/lld-link.exe"
+      - "C:/Users/goney/AppData/Local/Microsoft/WindowsApps/lld-link"
+      - "C:/Users/goney/.dotnet/tools/lld-link.com"
+      - "C:/Users/goney/.dotnet/tools/lld-link.exe"
+      - "C:/Users/goney/.dotnet/tools/lld-link"
+      - "C:/Users/goney/AppData/Local/Programs/Microsoft VS Code/bin/lld-link.com"
+      - "C:/Users/goney/AppData/Local/Programs/Microsoft VS Code/bin/lld-link.exe"
+      - "C:/Users/goney/AppData/Local/Programs/Microsoft VS Code/bin/lld-link"
+      - "C:/Users/goney/AppData/Roaming/npm/lld-link.com"
+      - "C:/Users/goney/AppData/Roaming/npm/lld-link.exe"
+      - "C:/Users/goney/AppData/Roaming/npm/lld-link"
+      - "C:/Users/goney/.local/bin/lld-link.com"
+      - "C:/Users/goney/.local/bin/lld-link.exe"
+      - "C:/Users/goney/.local/bin/lld-link"
+      - "C:/Users/goney/AppData/Local/Programs/Antigravity/bin/lld-link.com"
+      - "C:/Users/goney/AppData/Local/Programs/Antigravity/bin/lld-link.exe"
+      - "C:/Users/goney/AppData/Local/Programs/Antigravity/bin/lld-link"
+      - "C:/opencv/build/x64/vc16/bin/lld-link.com"
+      - "C:/opencv/build/x64/vc16/bin/lld-link.exe"
+      - "C:/opencv/build/x64/vc16/bin/lld-link"
+    found: false
+    search_context:
+      ENV{CMAKE_PREFIX_PATH}:
+        - "C:\\Program Files\\Basler\\pylon 7\\Development\\CMake\\pylon\\"
+      ENV{PATH}:
+        - "C:\\Program Files\\VisionMaster4.4.0\\Applications\\PublicFile\\x64"
+        - "C:\\Program Files\\VisionMaster4.4.0\\Applications\\PublicFile\\x86"
+        - "C:\\Program Files\\VisionMaster4.4.0\\MVDAlgorithmSDK\\Runtime\\Win32"
+        - "C:\\Program Files\\VisionMaster4.4.0\\MVDAlgorithmSDK\\Runtime\\x64"
+        - "C:\\Program Files (x86)\\Common Files\\MVS\\Runtime\\Win32_i86"
+        - "C:\\Program Files (x86)\\Common Files\\MVS\\Runtime\\Win64_x64"
+        - "C:\\Program Files\\Basler\\pylon 7\\Runtime\\x64\\"
+        - "C:\\Program Files\\Basler\\pylon 7\\Runtime\\Win32\\"
+        - "C:\\WINDOWS\\system32"
+        - "C:\\WINDOWS"
+        - "C:\\WINDOWS\\System32\\Wbem"
+        - "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\"
+        - "C:\\WINDOWS\\System32\\OpenSSH\\"
+        - "C:\\Program Files\\Microsoft SQL Server\\150\\Tools\\Binn\\"
+        - "C:\\Program Files\\Microsoft SQL Server\\Client SDK\\ODBC\\170\\Tools\\Binn\\"
+        - "C:\\Program Files\\dotnet\\"
+        - "C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance Toolkit\\"
+        - "C:\\Program Files\\Git\\cmd"
+        - "C:\\Program Files\\nodejs\\"
+        - "C:\\Program Files\\cursor\\resources\\app\\bin"
+        - "C:\\Program Files (x86)\\Common Files\\MVS\\Runtime\\Win32_i86"
+        - "C:\\Program Files (x86)\\Common Files\\MVS\\Runtime\\Win64_x64"
+        - "C:\\Program Files\\VisionMaster4.3.0\\Applications\\PublicFile\\x64"
+        - "C:\\Program Files\\VisionMaster4.3.0\\Applications\\PublicFile\\x86"
+        - "C:\\Program Files (x86)\\MVDAlgorithmSDK\\Runtime\\Win32"
+        - "C:\\Program Files (x86)\\MVDAlgorithmSDK\\Runtime\\x64"
+        - "C:\\Program Files\\Basler\\pylon 7\\Runtime\\x64\\"
+        - "C:\\Program Files\\Basler\\pylon 7\\Runtime\\Win32\\"
+        - "C:\\WINDOWS\\system32"
+        - "C:\\WINDOWS"
+        - "C:\\WINDOWS\\System32\\Wbem"
+        - "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\"
+        - "C:\\WINDOWS\\System32\\OpenSSH\\"
+        - "C:\\Program Files\\Microsoft SQL Server\\150\\Tools\\Binn\\"
+        - "C:\\Program Files\\Microsoft SQL Server\\Client SDK\\ODBC\\170\\Tools\\Binn\\"
+        - "C:\\Program Files\\dotnet\\"
+        - "C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance Toolkit\\"
+        - "C:\\Program Files\\Git\\cmd"
+        - "C:\\Program Files\\nodejs\\"
+        - "C:\\Users\\goney\\AppData\\Local\\Programs\\MVTec\\HALCON-25.05-Progress\\bin\\x64-win64"
+        - "C:\\Users\\goney\\AppData\\Local\\Programs\\Python\\Python310\\Scripts\\"
+        - "C:\\Users\\goney\\AppData\\Local\\Programs\\Python\\Python310\\"
+        - "C:\\Users\\goney\\AppData\\Local\\Programs\\Python\\Python312\\Scripts\\"
+        - "C:\\Users\\goney\\AppData\\Local\\Programs\\Python\\Python312\\"
+        - "C:\\Users\\goney\\AppData\\Local\\Programs\\Python\\Launcher\\"
+        - "C:\\Users\\goney\\AppData\\Local\\Microsoft\\WindowsApps"
+        - "C:\\Users\\goney\\.dotnet\\tools"
+        - "C:\\Users\\goney\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
+        - "C:\\Users\\goney\\AppData\\Roaming\\npm"
+        - "C:\\Users\\goney\\.local\\bin"
+        - "C:\\Users\\goney\\.local\\bin"
+        - "C:\\Users\\goney\\AppData\\Local\\Programs\\Antigravity\\bin"
+        - "C:\\opencv\\build\\x64\\vc16\\bin"
+  -
+    kind: "find-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-4.2/Modules/CMakeFindBinUtils.cmake:243 (find_program)"
+      - "C:/Program Files/CMake/share/cmake-4.2/Modules/CMakeDetermineCXXCompiler.cmake:206 (include)"
+      - "CMakeLists.txt:2 (project)"
+    mode: "program"
+    variable: "CMAKE_LINKER"
+    description: "Path to a program."
+    settings:
+      SearchFramework: "NEVER"
+      SearchAppBundle: "NEVER"
+      CMAKE_FIND_USE_CMAKE_PATH: false
+      CMAKE_FIND_USE_CMAKE_ENVIRONMENT_PATH: false
+      CMAKE_FIND_USE_SYSTEM_ENVIRONMENT_PATH: true
+      CMAKE_FIND_USE_CMAKE_SYSTEM_PATH: true
+      CMAKE_FIND_USE_INSTALL_PREFIX: true
+    names:
+      - "link"
+    candidate_directories:
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.44.35207/bin/Hostx64/x64/"
+      - "C:/Program Files/VisionMaster4.4.0/Applications/PublicFile/x64/"
+      - "C:/Program Files/VisionMaster4.4.0/Applications/PublicFile/x86/"
+      - "C:/Program Files/VisionMaster4.4.0/MVDAlgorithmSDK/Runtime/win32/"
+      - "C:/Program Files/VisionMaster4.4.0/MVDAlgorithmSDK/Runtime/x64/"
+      - "C:/Program Files (x86)/Common Files/MVS/Runtime/Win32_i86/"
+      - "C:/Program Files (x86)/Common Files/MVS/Runtime/Win64_x64/"
+      - "C:/Program Files/Basler/pylon 7/Runtime/x64/"
+      - "C:/Program Files/Basler/pylon 7/Runtime/Win32/"
+      - "C:/Windows/System32/"
+      - "C:/Windows/"
+      - "C:/Windows/System32/wbem/"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/"
+      - "C:/Windows/System32/OpenSSH/"
+      - "C:/Program Files/Microsoft SQL Server/150/Tools/Binn/"
+      - "C:/Program Files/Microsoft SQL Server/Client SDK/ODBC/170/Tools/Binn/"
+      - "C:/Program Files/dotnet/"
+      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/"
+      - "C:/Program Files/Git/cmd/"
+      - "C:/Program Files/nodejs/"
+      - "C:/Program Files/cursor/resources/app/bin/"
+      - "C:/Program Files/VisionMaster4.3.0/Applications/PublicFile/x64/"
+      - "C:/Program Files/VisionMaster4.3.0/Applications/PublicFile/x86/"
+      - "C:/Program Files (x86)/MVDAlgorithmSDK/Runtime/Win32/"
+      - "C:/Program Files (x86)/MVDAlgorithmSDK/Runtime/x64/"
+      - "C:/Users/goney/AppData/Local/Programs/MVTec/HALCON-25.05-Progress/bin/x64-win64/"
+      - "C:/Users/goney/AppData/Local/Programs/Python/Python310/Scripts/"
+      - "C:/Users/goney/AppData/Local/Programs/Python/Python310/"
+      - "C:/Users/goney/AppData/Local/Programs/Python/Python312/Scripts/"
+      - "C:/Users/goney/AppData/Local/Programs/Python/Python312/"
+      - "C:/Users/goney/AppData/Local/Programs/Python/Launcher/"
+      - "C:/Users/goney/AppData/Local/Microsoft/WindowsApps/"
+      - "C:/Users/goney/.dotnet/tools/"
+      - "C:/Users/goney/AppData/Local/Programs/Microsoft VS Code/bin/"
+      - "C:/Users/goney/AppData/Roaming/npm/"
+      - "C:/Users/goney/.local/bin/"
+      - "C:/Users/goney/AppData/Local/Programs/Antigravity/bin/"
+      - "C:/opencv/build/x64/vc16/bin/"
+    searched_directories:
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.44.35207/bin/Hostx64/x64/link.com"
+    found: "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.44.35207/bin/Hostx64/x64/link.exe"
+    search_context:
+      ENV{CMAKE_PREFIX_PATH}:
+        - "C:\\Program Files\\Basler\\pylon 7\\Development\\CMake\\pylon\\"
+      ENV{PATH}:
+        - "C:\\Program Files\\VisionMaster4.4.0\\Applications\\PublicFile\\x64"
+        - "C:\\Program Files\\VisionMaster4.4.0\\Applications\\PublicFile\\x86"
+        - "C:\\Program Files\\VisionMaster4.4.0\\MVDAlgorithmSDK\\Runtime\\Win32"
+        - "C:\\Program Files\\VisionMaster4.4.0\\MVDAlgorithmSDK\\Runtime\\x64"
+        - "C:\\Program Files (x86)\\Common Files\\MVS\\Runtime\\Win32_i86"
+        - "C:\\Program Files (x86)\\Common Files\\MVS\\Runtime\\Win64_x64"
+        - "C:\\Program Files\\Basler\\pylon 7\\Runtime\\x64\\"
+        - "C:\\Program Files\\Basler\\pylon 7\\Runtime\\Win32\\"
+        - "C:\\WINDOWS\\system32"
+        - "C:\\WINDOWS"
+        - "C:\\WINDOWS\\System32\\Wbem"
+        - "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\"
+        - "C:\\WINDOWS\\System32\\OpenSSH\\"
+        - "C:\\Program Files\\Microsoft SQL Server\\150\\Tools\\Binn\\"
+        - "C:\\Program Files\\Microsoft SQL Server\\Client SDK\\ODBC\\170\\Tools\\Binn\\"
+        - "C:\\Program Files\\dotnet\\"
+        - "C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance Toolkit\\"
+        - "C:\\Program Files\\Git\\cmd"
+        - "C:\\Program Files\\nodejs\\"
+        - "C:\\Program Files\\cursor\\resources\\app\\bin"
+        - "C:\\Program Files (x86)\\Common Files\\MVS\\Runtime\\Win32_i86"
+        - "C:\\Program Files (x86)\\Common Files\\MVS\\Runtime\\Win64_x64"
+        - "C:\\Program Files\\VisionMaster4.3.0\\Applications\\PublicFile\\x64"
+        - "C:\\Program Files\\VisionMaster4.3.0\\Applications\\PublicFile\\x86"
+        - "C:\\Program Files (x86)\\MVDAlgorithmSDK\\Runtime\\Win32"
+        - "C:\\Program Files (x86)\\MVDAlgorithmSDK\\Runtime\\x64"
+        - "C:\\Program Files\\Basler\\pylon 7\\Runtime\\x64\\"
+        - "C:\\Program Files\\Basler\\pylon 7\\Runtime\\Win32\\"
+        - "C:\\WINDOWS\\system32"
+        - "C:\\WINDOWS"
+        - "C:\\WINDOWS\\System32\\Wbem"
+        - "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\"
+        - "C:\\WINDOWS\\System32\\OpenSSH\\"
+        - "C:\\Program Files\\Microsoft SQL Server\\150\\Tools\\Binn\\"
+        - "C:\\Program Files\\Microsoft SQL Server\\Client SDK\\ODBC\\170\\Tools\\Binn\\"
+        - "C:\\Program Files\\dotnet\\"
+        - "C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance Toolkit\\"
+        - "C:\\Program Files\\Git\\cmd"
+        - "C:\\Program Files\\nodejs\\"
+        - "C:\\Users\\goney\\AppData\\Local\\Programs\\MVTec\\HALCON-25.05-Progress\\bin\\x64-win64"
+        - "C:\\Users\\goney\\AppData\\Local\\Programs\\Python\\Python310\\Scripts\\"
+        - "C:\\Users\\goney\\AppData\\Local\\Programs\\Python\\Python310\\"
+        - "C:\\Users\\goney\\AppData\\Local\\Programs\\Python\\Python312\\Scripts\\"
+        - "C:\\Users\\goney\\AppData\\Local\\Programs\\Python\\Python312\\"
+        - "C:\\Users\\goney\\AppData\\Local\\Programs\\Python\\Launcher\\"
+        - "C:\\Users\\goney\\AppData\\Local\\Microsoft\\WindowsApps"
+        - "C:\\Users\\goney\\.dotnet\\tools"
+        - "C:\\Users\\goney\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
+        - "C:\\Users\\goney\\AppData\\Roaming\\npm"
+        - "C:\\Users\\goney\\.local\\bin"
+        - "C:\\Users\\goney\\.local\\bin"
+        - "C:\\Users\\goney\\AppData\\Local\\Programs\\Antigravity\\bin"
+        - "C:\\opencv\\build\\x64\\vc16\\bin"
+  -
+    kind: "find-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-4.2/Modules/CMakeFindBinUtils.cmake:243 (find_program)"
+      - "C:/Program Files/CMake/share/cmake-4.2/Modules/CMakeDetermineCXXCompiler.cmake:206 (include)"
+      - "CMakeLists.txt:2 (project)"
+    mode: "program"
+    variable: "CMAKE_MT"
+    description: "Path to a program."
+    settings:
+      SearchFramework: "NEVER"
+      SearchAppBundle: "NEVER"
+      CMAKE_FIND_USE_CMAKE_PATH: false
+      CMAKE_FIND_USE_CMAKE_ENVIRONMENT_PATH: false
+      CMAKE_FIND_USE_SYSTEM_ENVIRONMENT_PATH: true
+      CMAKE_FIND_USE_CMAKE_SYSTEM_PATH: true
+      CMAKE_FIND_USE_INSTALL_PREFIX: true
+    names:
+      - "mt"
+    candidate_directories:
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.44.35207/bin/Hostx64/x64/"
+      - "C:/Program Files/VisionMaster4.4.0/Applications/PublicFile/x64/"
+      - "C:/Program Files/VisionMaster4.4.0/Applications/PublicFile/x86/"
+      - "C:/Program Files/VisionMaster4.4.0/MVDAlgorithmSDK/Runtime/win32/"
+      - "C:/Program Files/VisionMaster4.4.0/MVDAlgorithmSDK/Runtime/x64/"
+      - "C:/Program Files (x86)/Common Files/MVS/Runtime/Win32_i86/"
+      - "C:/Program Files (x86)/Common Files/MVS/Runtime/Win64_x64/"
+      - "C:/Program Files/Basler/pylon 7/Runtime/x64/"
+      - "C:/Program Files/Basler/pylon 7/Runtime/Win32/"
+      - "C:/Windows/System32/"
+      - "C:/Windows/"
+      - "C:/Windows/System32/wbem/"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/"
+      - "C:/Windows/System32/OpenSSH/"
+      - "C:/Program Files/Microsoft SQL Server/150/Tools/Binn/"
+      - "C:/Program Files/Microsoft SQL Server/Client SDK/ODBC/170/Tools/Binn/"
+      - "C:/Program Files/dotnet/"
+      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/"
+      - "C:/Program Files/Git/cmd/"
+      - "C:/Program Files/nodejs/"
+      - "C:/Program Files/cursor/resources/app/bin/"
+      - "C:/Program Files/VisionMaster4.3.0/Applications/PublicFile/x64/"
+      - "C:/Program Files/VisionMaster4.3.0/Applications/PublicFile/x86/"
+      - "C:/Program Files (x86)/MVDAlgorithmSDK/Runtime/Win32/"
+      - "C:/Program Files (x86)/MVDAlgorithmSDK/Runtime/x64/"
+      - "C:/Users/goney/AppData/Local/Programs/MVTec/HALCON-25.05-Progress/bin/x64-win64/"
+      - "C:/Users/goney/AppData/Local/Programs/Python/Python310/Scripts/"
+      - "C:/Users/goney/AppData/Local/Programs/Python/Python310/"
+      - "C:/Users/goney/AppData/Local/Programs/Python/Python312/Scripts/"
+      - "C:/Users/goney/AppData/Local/Programs/Python/Python312/"
+      - "C:/Users/goney/AppData/Local/Programs/Python/Launcher/"
+      - "C:/Users/goney/AppData/Local/Microsoft/WindowsApps/"
+      - "C:/Users/goney/.dotnet/tools/"
+      - "C:/Users/goney/AppData/Local/Programs/Microsoft VS Code/bin/"
+      - "C:/Users/goney/AppData/Roaming/npm/"
+      - "C:/Users/goney/.local/bin/"
+      - "C:/Users/goney/AppData/Local/Programs/Antigravity/bin/"
+      - "C:/opencv/build/x64/vc16/bin/"
+    searched_directories:
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.44.35207/bin/Hostx64/x64/mt.com"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.44.35207/bin/Hostx64/x64/mt.exe"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.44.35207/bin/Hostx64/x64/mt"
+      - "C:/Program Files/VisionMaster4.4.0/Applications/PublicFile/x64/mt.com"
+      - "C:/Program Files/VisionMaster4.4.0/Applications/PublicFile/x64/mt.exe"
+      - "C:/Program Files/VisionMaster4.4.0/Applications/PublicFile/x64/mt"
+      - "C:/Program Files/VisionMaster4.4.0/Applications/PublicFile/x86/mt.com"
+      - "C:/Program Files/VisionMaster4.4.0/Applications/PublicFile/x86/mt.exe"
+      - "C:/Program Files/VisionMaster4.4.0/Applications/PublicFile/x86/mt"
+      - "C:/Program Files/VisionMaster4.4.0/MVDAlgorithmSDK/Runtime/win32/mt.com"
+      - "C:/Program Files/VisionMaster4.4.0/MVDAlgorithmSDK/Runtime/win32/mt.exe"
+      - "C:/Program Files/VisionMaster4.4.0/MVDAlgorithmSDK/Runtime/win32/mt"
+      - "C:/Program Files/VisionMaster4.4.0/MVDAlgorithmSDK/Runtime/x64/mt.com"
+      - "C:/Program Files/VisionMaster4.4.0/MVDAlgorithmSDK/Runtime/x64/mt.exe"
+      - "C:/Program Files/VisionMaster4.4.0/MVDAlgorithmSDK/Runtime/x64/mt"
+      - "C:/Program Files (x86)/Common Files/MVS/Runtime/Win32_i86/mt.com"
+      - "C:/Program Files (x86)/Common Files/MVS/Runtime/Win32_i86/mt.exe"
+      - "C:/Program Files (x86)/Common Files/MVS/Runtime/Win32_i86/mt"
+      - "C:/Program Files (x86)/Common Files/MVS/Runtime/Win64_x64/mt.com"
+      - "C:/Program Files (x86)/Common Files/MVS/Runtime/Win64_x64/mt.exe"
+      - "C:/Program Files (x86)/Common Files/MVS/Runtime/Win64_x64/mt"
+      - "C:/Program Files/Basler/pylon 7/Runtime/x64/mt.com"
+      - "C:/Program Files/Basler/pylon 7/Runtime/x64/mt.exe"
+      - "C:/Program Files/Basler/pylon 7/Runtime/x64/mt"
+      - "C:/Program Files/Basler/pylon 7/Runtime/Win32/mt.com"
+      - "C:/Program Files/Basler/pylon 7/Runtime/Win32/mt.exe"
+      - "C:/Program Files/Basler/pylon 7/Runtime/Win32/mt"
+      - "C:/Windows/System32/mt.com"
+      - "C:/Windows/System32/mt.exe"
+      - "C:/Windows/System32/mt"
+      - "C:/Windows/mt.com"
+      - "C:/Windows/mt.exe"
+      - "C:/Windows/mt"
+      - "C:/Windows/System32/wbem/mt.com"
+      - "C:/Windows/System32/wbem/mt.exe"
+      - "C:/Windows/System32/wbem/mt"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/mt.com"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/mt.exe"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/mt"
+      - "C:/Windows/System32/OpenSSH/mt.com"
+      - "C:/Windows/System32/OpenSSH/mt.exe"
+      - "C:/Windows/System32/OpenSSH/mt"
+      - "C:/Program Files/Microsoft SQL Server/150/Tools/Binn/mt.com"
+      - "C:/Program Files/Microsoft SQL Server/150/Tools/Binn/mt.exe"
+      - "C:/Program Files/Microsoft SQL Server/150/Tools/Binn/mt"
+      - "C:/Program Files/Microsoft SQL Server/Client SDK/ODBC/170/Tools/Binn/mt.com"
+      - "C:/Program Files/Microsoft SQL Server/Client SDK/ODBC/170/Tools/Binn/mt.exe"
+      - "C:/Program Files/Microsoft SQL Server/Client SDK/ODBC/170/Tools/Binn/mt"
+      - "C:/Program Files/dotnet/mt.com"
+      - "C:/Program Files/dotnet/mt.exe"
+      - "C:/Program Files/dotnet/mt"
+      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/mt.com"
+      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/mt.exe"
+      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/mt"
+      - "C:/Program Files/Git/cmd/mt.com"
+      - "C:/Program Files/Git/cmd/mt.exe"
+      - "C:/Program Files/Git/cmd/mt"
+      - "C:/Program Files/nodejs/mt.com"
+      - "C:/Program Files/nodejs/mt.exe"
+      - "C:/Program Files/nodejs/mt"
+      - "C:/Program Files/cursor/resources/app/bin/mt.com"
+      - "C:/Program Files/cursor/resources/app/bin/mt.exe"
+      - "C:/Program Files/cursor/resources/app/bin/mt"
+      - "C:/Program Files/VisionMaster4.3.0/Applications/PublicFile/x64/mt.com"
+      - "C:/Program Files/VisionMaster4.3.0/Applications/PublicFile/x64/mt.exe"
+      - "C:/Program Files/VisionMaster4.3.0/Applications/PublicFile/x64/mt"
+      - "C:/Program Files/VisionMaster4.3.0/Applications/PublicFile/x86/mt.com"
+      - "C:/Program Files/VisionMaster4.3.0/Applications/PublicFile/x86/mt.exe"
+      - "C:/Program Files/VisionMaster4.3.0/Applications/PublicFile/x86/mt"
+      - "C:/Program Files (x86)/MVDAlgorithmSDK/Runtime/Win32/mt.com"
+      - "C:/Program Files (x86)/MVDAlgorithmSDK/Runtime/Win32/mt.exe"
+      - "C:/Program Files (x86)/MVDAlgorithmSDK/Runtime/Win32/mt"
+      - "C:/Program Files (x86)/MVDAlgorithmSDK/Runtime/x64/mt.com"
+      - "C:/Program Files (x86)/MVDAlgorithmSDK/Runtime/x64/mt.exe"
+      - "C:/Program Files (x86)/MVDAlgorithmSDK/Runtime/x64/mt"
+      - "C:/Users/goney/AppData/Local/Programs/MVTec/HALCON-25.05-Progress/bin/x64-win64/mt.com"
+      - "C:/Users/goney/AppData/Local/Programs/MVTec/HALCON-25.05-Progress/bin/x64-win64/mt.exe"
+      - "C:/Users/goney/AppData/Local/Programs/MVTec/HALCON-25.05-Progress/bin/x64-win64/mt"
+      - "C:/Users/goney/AppData/Local/Programs/Python/Python310/Scripts/mt.com"
+      - "C:/Users/goney/AppData/Local/Programs/Python/Python310/Scripts/mt.exe"
+      - "C:/Users/goney/AppData/Local/Programs/Python/Python310/Scripts/mt"
+      - "C:/Users/goney/AppData/Local/Programs/Python/Python310/mt.com"
+      - "C:/Users/goney/AppData/Local/Programs/Python/Python310/mt.exe"
+      - "C:/Users/goney/AppData/Local/Programs/Python/Python310/mt"
+      - "C:/Users/goney/AppData/Local/Programs/Python/Python312/Scripts/mt.com"
+      - "C:/Users/goney/AppData/Local/Programs/Python/Python312/Scripts/mt.exe"
+      - "C:/Users/goney/AppData/Local/Programs/Python/Python312/Scripts/mt"
+      - "C:/Users/goney/AppData/Local/Programs/Python/Python312/mt.com"
+      - "C:/Users/goney/AppData/Local/Programs/Python/Python312/mt.exe"
+      - "C:/Users/goney/AppData/Local/Programs/Python/Python312/mt"
+      - "C:/Users/goney/AppData/Local/Programs/Python/Launcher/mt.com"
+      - "C:/Users/goney/AppData/Local/Programs/Python/Launcher/mt.exe"
+      - "C:/Users/goney/AppData/Local/Programs/Python/Launcher/mt"
+      - "C:/Users/goney/AppData/Local/Microsoft/WindowsApps/mt.com"
+      - "C:/Users/goney/AppData/Local/Microsoft/WindowsApps/mt.exe"
+      - "C:/Users/goney/AppData/Local/Microsoft/WindowsApps/mt"
+      - "C:/Users/goney/.dotnet/tools/mt.com"
+      - "C:/Users/goney/.dotnet/tools/mt.exe"
+      - "C:/Users/goney/.dotnet/tools/mt"
+      - "C:/Users/goney/AppData/Local/Programs/Microsoft VS Code/bin/mt.com"
+      - "C:/Users/goney/AppData/Local/Programs/Microsoft VS Code/bin/mt.exe"
+      - "C:/Users/goney/AppData/Local/Programs/Microsoft VS Code/bin/mt"
+      - "C:/Users/goney/AppData/Roaming/npm/mt.com"
+      - "C:/Users/goney/AppData/Roaming/npm/mt.exe"
+      - "C:/Users/goney/AppData/Roaming/npm/mt"
+      - "C:/Users/goney/.local/bin/mt.com"
+      - "C:/Users/goney/.local/bin/mt.exe"
+      - "C:/Users/goney/.local/bin/mt"
+      - "C:/Users/goney/AppData/Local/Programs/Antigravity/bin/mt.com"
+      - "C:/Users/goney/AppData/Local/Programs/Antigravity/bin/mt.exe"
+      - "C:/Users/goney/AppData/Local/Programs/Antigravity/bin/mt"
+      - "C:/opencv/build/x64/vc16/bin/mt.com"
+      - "C:/opencv/build/x64/vc16/bin/mt.exe"
+      - "C:/opencv/build/x64/vc16/bin/mt"
+    found: false
+    search_context:
+      ENV{CMAKE_PREFIX_PATH}:
+        - "C:\\Program Files\\Basler\\pylon 7\\Development\\CMake\\pylon\\"
+      ENV{PATH}:
+        - "C:\\Program Files\\VisionMaster4.4.0\\Applications\\PublicFile\\x64"
+        - "C:\\Program Files\\VisionMaster4.4.0\\Applications\\PublicFile\\x86"
+        - "C:\\Program Files\\VisionMaster4.4.0\\MVDAlgorithmSDK\\Runtime\\Win32"
+        - "C:\\Program Files\\VisionMaster4.4.0\\MVDAlgorithmSDK\\Runtime\\x64"
+        - "C:\\Program Files (x86)\\Common Files\\MVS\\Runtime\\Win32_i86"
+        - "C:\\Program Files (x86)\\Common Files\\MVS\\Runtime\\Win64_x64"
+        - "C:\\Program Files\\Basler\\pylon 7\\Runtime\\x64\\"
+        - "C:\\Program Files\\Basler\\pylon 7\\Runtime\\Win32\\"
+        - "C:\\WINDOWS\\system32"
+        - "C:\\WINDOWS"
+        - "C:\\WINDOWS\\System32\\Wbem"
+        - "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\"
+        - "C:\\WINDOWS\\System32\\OpenSSH\\"
+        - "C:\\Program Files\\Microsoft SQL Server\\150\\Tools\\Binn\\"
+        - "C:\\Program Files\\Microsoft SQL Server\\Client SDK\\ODBC\\170\\Tools\\Binn\\"
+        - "C:\\Program Files\\dotnet\\"
+        - "C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance Toolkit\\"
+        - "C:\\Program Files\\Git\\cmd"
+        - "C:\\Program Files\\nodejs\\"
+        - "C:\\Program Files\\cursor\\resources\\app\\bin"
+        - "C:\\Program Files (x86)\\Common Files\\MVS\\Runtime\\Win32_i86"
+        - "C:\\Program Files (x86)\\Common Files\\MVS\\Runtime\\Win64_x64"
+        - "C:\\Program Files\\VisionMaster4.3.0\\Applications\\PublicFile\\x64"
+        - "C:\\Program Files\\VisionMaster4.3.0\\Applications\\PublicFile\\x86"
+        - "C:\\Program Files (x86)\\MVDAlgorithmSDK\\Runtime\\Win32"
+        - "C:\\Program Files (x86)\\MVDAlgorithmSDK\\Runtime\\x64"
+        - "C:\\Program Files\\Basler\\pylon 7\\Runtime\\x64\\"
+        - "C:\\Program Files\\Basler\\pylon 7\\Runtime\\Win32\\"
+        - "C:\\WINDOWS\\system32"
+        - "C:\\WINDOWS"
+        - "C:\\WINDOWS\\System32\\Wbem"
+        - "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\"
+        - "C:\\WINDOWS\\System32\\OpenSSH\\"
+        - "C:\\Program Files\\Microsoft SQL Server\\150\\Tools\\Binn\\"
+        - "C:\\Program Files\\Microsoft SQL Server\\Client SDK\\ODBC\\170\\Tools\\Binn\\"
+        - "C:\\Program Files\\dotnet\\"
+        - "C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance Toolkit\\"
+        - "C:\\Program Files\\Git\\cmd"
+        - "C:\\Program Files\\nodejs\\"
+        - "C:\\Users\\goney\\AppData\\Local\\Programs\\MVTec\\HALCON-25.05-Progress\\bin\\x64-win64"
+        - "C:\\Users\\goney\\AppData\\Local\\Programs\\Python\\Python310\\Scripts\\"
+        - "C:\\Users\\goney\\AppData\\Local\\Programs\\Python\\Python310\\"
+        - "C:\\Users\\goney\\AppData\\Local\\Programs\\Python\\Python312\\Scripts\\"
+        - "C:\\Users\\goney\\AppData\\Local\\Programs\\Python\\Python312\\"
+        - "C:\\Users\\goney\\AppData\\Local\\Programs\\Python\\Launcher\\"
+        - "C:\\Users\\goney\\AppData\\Local\\Microsoft\\WindowsApps"
+        - "C:\\Users\\goney\\.dotnet\\tools"
+        - "C:\\Users\\goney\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
+        - "C:\\Users\\goney\\AppData\\Roaming\\npm"
+        - "C:\\Users\\goney\\.local\\bin"
+        - "C:\\Users\\goney\\.local\\bin"
+        - "C:\\Users\\goney\\AppData\\Local\\Programs\\Antigravity\\bin"
+        - "C:\\opencv\\build\\x64\\vc16\\bin"
+  -
+    kind: "find-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-4.2/Modules/CMakeFindBinUtils.cmake:243 (find_program)"
+      - "C:/Program Files/CMake/share/cmake-4.2/Modules/CMakeDetermineCXXCompiler.cmake:206 (include)"
+      - "CMakeLists.txt:2 (project)"
+    mode: "program"
+    variable: "CMAKE_AR"
+    description: "Path to a program."
+    settings:
+      SearchFramework: "NEVER"
+      SearchAppBundle: "NEVER"
+      CMAKE_FIND_USE_CMAKE_PATH: false
+      CMAKE_FIND_USE_CMAKE_ENVIRONMENT_PATH: false
+      CMAKE_FIND_USE_SYSTEM_ENVIRONMENT_PATH: true
+      CMAKE_FIND_USE_CMAKE_SYSTEM_PATH: true
+      CMAKE_FIND_USE_INSTALL_PREFIX: true
+    names:
+      - "lib"
+    candidate_directories:
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.44.35207/bin/Hostx64/x64/"
+      - "C:/Program Files/VisionMaster4.4.0/Applications/PublicFile/x64/"
+      - "C:/Program Files/VisionMaster4.4.0/Applications/PublicFile/x86/"
+      - "C:/Program Files/VisionMaster4.4.0/MVDAlgorithmSDK/Runtime/win32/"
+      - "C:/Program Files/VisionMaster4.4.0/MVDAlgorithmSDK/Runtime/x64/"
+      - "C:/Program Files (x86)/Common Files/MVS/Runtime/Win32_i86/"
+      - "C:/Program Files (x86)/Common Files/MVS/Runtime/Win64_x64/"
+      - "C:/Program Files/Basler/pylon 7/Runtime/x64/"
+      - "C:/Program Files/Basler/pylon 7/Runtime/Win32/"
+      - "C:/Windows/System32/"
+      - "C:/Windows/"
+      - "C:/Windows/System32/wbem/"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/"
+      - "C:/Windows/System32/OpenSSH/"
+      - "C:/Program Files/Microsoft SQL Server/150/Tools/Binn/"
+      - "C:/Program Files/Microsoft SQL Server/Client SDK/ODBC/170/Tools/Binn/"
+      - "C:/Program Files/dotnet/"
+      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/"
+      - "C:/Program Files/Git/cmd/"
+      - "C:/Program Files/nodejs/"
+      - "C:/Program Files/cursor/resources/app/bin/"
+      - "C:/Program Files/VisionMaster4.3.0/Applications/PublicFile/x64/"
+      - "C:/Program Files/VisionMaster4.3.0/Applications/PublicFile/x86/"
+      - "C:/Program Files (x86)/MVDAlgorithmSDK/Runtime/Win32/"
+      - "C:/Program Files (x86)/MVDAlgorithmSDK/Runtime/x64/"
+      - "C:/Users/goney/AppData/Local/Programs/MVTec/HALCON-25.05-Progress/bin/x64-win64/"
+      - "C:/Users/goney/AppData/Local/Programs/Python/Python310/Scripts/"
+      - "C:/Users/goney/AppData/Local/Programs/Python/Python310/"
+      - "C:/Users/goney/AppData/Local/Programs/Python/Python312/Scripts/"
+      - "C:/Users/goney/AppData/Local/Programs/Python/Python312/"
+      - "C:/Users/goney/AppData/Local/Programs/Python/Launcher/"
+      - "C:/Users/goney/AppData/Local/Microsoft/WindowsApps/"
+      - "C:/Users/goney/.dotnet/tools/"
+      - "C:/Users/goney/AppData/Local/Programs/Microsoft VS Code/bin/"
+      - "C:/Users/goney/AppData/Roaming/npm/"
+      - "C:/Users/goney/.local/bin/"
+      - "C:/Users/goney/AppData/Local/Programs/Antigravity/bin/"
+      - "C:/opencv/build/x64/vc16/bin/"
+    searched_directories:
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.44.35207/bin/Hostx64/x64/lib.com"
+    found: "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.44.35207/bin/Hostx64/x64/lib.exe"
+    search_context:
+      ENV{CMAKE_PREFIX_PATH}:
+        - "C:\\Program Files\\Basler\\pylon 7\\Development\\CMake\\pylon\\"
+      ENV{PATH}:
+        - "C:\\Program Files\\VisionMaster4.4.0\\Applications\\PublicFile\\x64"
+        - "C:\\Program Files\\VisionMaster4.4.0\\Applications\\PublicFile\\x86"
+        - "C:\\Program Files\\VisionMaster4.4.0\\MVDAlgorithmSDK\\Runtime\\Win32"
+        - "C:\\Program Files\\VisionMaster4.4.0\\MVDAlgorithmSDK\\Runtime\\x64"
+        - "C:\\Program Files (x86)\\Common Files\\MVS\\Runtime\\Win32_i86"
+        - "C:\\Program Files (x86)\\Common Files\\MVS\\Runtime\\Win64_x64"
+        - "C:\\Program Files\\Basler\\pylon 7\\Runtime\\x64\\"
+        - "C:\\Program Files\\Basler\\pylon 7\\Runtime\\Win32\\"
+        - "C:\\WINDOWS\\system32"
+        - "C:\\WINDOWS"
+        - "C:\\WINDOWS\\System32\\Wbem"
+        - "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\"
+        - "C:\\WINDOWS\\System32\\OpenSSH\\"
+        - "C:\\Program Files\\Microsoft SQL Server\\150\\Tools\\Binn\\"
+        - "C:\\Program Files\\Microsoft SQL Server\\Client SDK\\ODBC\\170\\Tools\\Binn\\"
+        - "C:\\Program Files\\dotnet\\"
+        - "C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance Toolkit\\"
+        - "C:\\Program Files\\Git\\cmd"
+        - "C:\\Program Files\\nodejs\\"
+        - "C:\\Program Files\\cursor\\resources\\app\\bin"
+        - "C:\\Program Files (x86)\\Common Files\\MVS\\Runtime\\Win32_i86"
+        - "C:\\Program Files (x86)\\Common Files\\MVS\\Runtime\\Win64_x64"
+        - "C:\\Program Files\\VisionMaster4.3.0\\Applications\\PublicFile\\x64"
+        - "C:\\Program Files\\VisionMaster4.3.0\\Applications\\PublicFile\\x86"
+        - "C:\\Program Files (x86)\\MVDAlgorithmSDK\\Runtime\\Win32"
+        - "C:\\Program Files (x86)\\MVDAlgorithmSDK\\Runtime\\x64"
+        - "C:\\Program Files\\Basler\\pylon 7\\Runtime\\x64\\"
+        - "C:\\Program Files\\Basler\\pylon 7\\Runtime\\Win32\\"
+        - "C:\\WINDOWS\\system32"
+        - "C:\\WINDOWS"
+        - "C:\\WINDOWS\\System32\\Wbem"
+        - "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\"
+        - "C:\\WINDOWS\\System32\\OpenSSH\\"
+        - "C:\\Program Files\\Microsoft SQL Server\\150\\Tools\\Binn\\"
+        - "C:\\Program Files\\Microsoft SQL Server\\Client SDK\\ODBC\\170\\Tools\\Binn\\"
+        - "C:\\Program Files\\dotnet\\"
+        - "C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance Toolkit\\"
+        - "C:\\Program Files\\Git\\cmd"
+        - "C:\\Program Files\\nodejs\\"
+        - "C:\\Users\\goney\\AppData\\Local\\Programs\\MVTec\\HALCON-25.05-Progress\\bin\\x64-win64"
+        - "C:\\Users\\goney\\AppData\\Local\\Programs\\Python\\Python310\\Scripts\\"
+        - "C:\\Users\\goney\\AppData\\Local\\Programs\\Python\\Python310\\"
+        - "C:\\Users\\goney\\AppData\\Local\\Programs\\Python\\Python312\\Scripts\\"
+        - "C:\\Users\\goney\\AppData\\Local\\Programs\\Python\\Python312\\"
+        - "C:\\Users\\goney\\AppData\\Local\\Programs\\Python\\Launcher\\"
+        - "C:\\Users\\goney\\AppData\\Local\\Microsoft\\WindowsApps"
+        - "C:\\Users\\goney\\.dotnet\\tools"
+        - "C:\\Users\\goney\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
+        - "C:\\Users\\goney\\AppData\\Roaming\\npm"
+        - "C:\\Users\\goney\\.local\\bin"
+        - "C:\\Users\\goney\\.local\\bin"
+        - "C:\\Users\\goney\\AppData\\Local\\Programs\\Antigravity\\bin"
+        - "C:\\opencv\\build\\x64\\vc16\\bin"
+  -
+    kind: "find-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-4.2/Modules/CMakeDetermineRCCompiler.cmake:40 (find_program)"
+      - "C:/Program Files/CMake/share/cmake-4.2/Modules/Platform/Windows-MSVC.cmake:580 (enable_language)"
+      - "C:/Program Files/CMake/share/cmake-4.2/Modules/Platform/Windows-MSVC.cmake:553 (__windows_compiler_msvc_enable_rc)"
+      - "C:/Program Files/CMake/share/cmake-4.2/Modules/Platform/Windows-MSVC-CXX.cmake:6 (__windows_compiler_msvc)"
+      - "C:/Program Files/CMake/share/cmake-4.2/Modules/CMakeCXXInformation.cmake:48 (include)"
+      - "CMakeLists.txt:2 (project)"
+    mode: "program"
+    variable: "CMAKE_RC_COMPILER"
+    description: "RC compiler"
+    settings:
+      SearchFramework: "NEVER"
+      SearchAppBundle: "NEVER"
+      CMAKE_FIND_USE_CMAKE_PATH: true
+      CMAKE_FIND_USE_CMAKE_ENVIRONMENT_PATH: true
+      CMAKE_FIND_USE_SYSTEM_ENVIRONMENT_PATH: true
+      CMAKE_FIND_USE_CMAKE_SYSTEM_PATH: true
+      CMAKE_FIND_USE_INSTALL_PREFIX: true
+    names:
+      - "rc"
+    candidate_directories:
+      - "C:/Program Files/Basler/pylon 7/Development/CMake/pylon/bin/"
+      - "C:/Program Files/Basler/pylon 7/Development/CMake/pylon/sbin/"
+      - "C:/Program Files/Basler/pylon 7/Development/CMake/pylon/"
+      - "C:/Program Files/VisionMaster4.4.0/Applications/PublicFile/x64/"
+      - "C:/Program Files/VisionMaster4.4.0/Applications/PublicFile/x86/"
+      - "C:/Program Files/VisionMaster4.4.0/MVDAlgorithmSDK/Runtime/win32/"
+      - "C:/Program Files/VisionMaster4.4.0/MVDAlgorithmSDK/Runtime/x64/"
+      - "C:/Program Files (x86)/Common Files/MVS/Runtime/Win32_i86/"
+      - "C:/Program Files (x86)/Common Files/MVS/Runtime/Win64_x64/"
+      - "C:/Program Files/Basler/pylon 7/Runtime/x64/"
+      - "C:/Program Files/Basler/pylon 7/Runtime/Win32/"
+      - "C:/Windows/System32/"
+      - "C:/Windows/"
+      - "C:/Windows/System32/wbem/"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/"
+      - "C:/Windows/System32/OpenSSH/"
+      - "C:/Program Files/Microsoft SQL Server/150/Tools/Binn/"
+      - "C:/Program Files/Microsoft SQL Server/Client SDK/ODBC/170/Tools/Binn/"
+      - "C:/Program Files/dotnet/"
+      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/"
+      - "C:/Program Files/Git/cmd/"
+      - "C:/Program Files/nodejs/"
+      - "C:/Program Files/cursor/resources/app/bin/"
+      - "C:/Program Files/VisionMaster4.3.0/Applications/PublicFile/x64/"
+      - "C:/Program Files/VisionMaster4.3.0/Applications/PublicFile/x86/"
+      - "C:/Program Files (x86)/MVDAlgorithmSDK/Runtime/Win32/"
+      - "C:/Program Files (x86)/MVDAlgorithmSDK/Runtime/x64/"
+      - "C:/Users/goney/AppData/Local/Programs/MVTec/HALCON-25.05-Progress/bin/x64-win64/"
+      - "C:/Users/goney/AppData/Local/Programs/Python/Python310/Scripts/"
+      - "C:/Users/goney/AppData/Local/Programs/Python/Python310/"
+      - "C:/Users/goney/AppData/Local/Programs/Python/Python312/Scripts/"
+      - "C:/Users/goney/AppData/Local/Programs/Python/Python312/"
+      - "C:/Users/goney/AppData/Local/Programs/Python/Launcher/"
+      - "C:/Users/goney/AppData/Local/Microsoft/WindowsApps/"
+      - "C:/Users/goney/.dotnet/tools/"
+      - "C:/Users/goney/AppData/Local/Programs/Microsoft VS Code/bin/"
+      - "C:/Users/goney/AppData/Roaming/npm/"
+      - "C:/Users/goney/.local/bin/"
+      - "C:/Users/goney/AppData/Local/Programs/Antigravity/bin/"
+      - "C:/opencv/build/x64/vc16/bin/"
+      - "C:/Program Files/bin/"
+      - "C:/Program Files/sbin/"
+      - "C:/Program Files/"
+      - "C:/Program Files (x86)/bin/"
+      - "C:/Program Files (x86)/sbin/"
+      - "C:/Program Files (x86)/"
+      - "C:/Program Files/CMake/bin/"
+      - "C:/Program Files/CMake/sbin/"
+      - "C:/Program Files/CMake/"
+      - "C:/Program Files (x86)/sbm_subpixel_python/bin/"
+      - "C:/Program Files (x86)/sbm_subpixel_python/sbin/"
+      - "C:/Program Files (x86)/sbm_subpixel_python/"
+    searched_directories:
+      - "C:/Program Files/Basler/pylon 7/Development/CMake/pylon/bin/rc.com"
+      - "C:/Program Files/Basler/pylon 7/Development/CMake/pylon/bin/rc.exe"
+      - "C:/Program Files/Basler/pylon 7/Development/CMake/pylon/bin/rc"
+      - "C:/Program Files/Basler/pylon 7/Development/CMake/pylon/sbin/rc.com"
+      - "C:/Program Files/Basler/pylon 7/Development/CMake/pylon/sbin/rc.exe"
+      - "C:/Program Files/Basler/pylon 7/Development/CMake/pylon/sbin/rc"
+      - "C:/Program Files/Basler/pylon 7/Development/CMake/pylon/rc.com"
+      - "C:/Program Files/Basler/pylon 7/Development/CMake/pylon/rc.exe"
+      - "C:/Program Files/Basler/pylon 7/Development/CMake/pylon/rc"
+      - "C:/Program Files/VisionMaster4.4.0/Applications/PublicFile/x64/rc.com"
+      - "C:/Program Files/VisionMaster4.4.0/Applications/PublicFile/x64/rc.exe"
+      - "C:/Program Files/VisionMaster4.4.0/Applications/PublicFile/x64/rc"
+      - "C:/Program Files/VisionMaster4.4.0/Applications/PublicFile/x86/rc.com"
+      - "C:/Program Files/VisionMaster4.4.0/Applications/PublicFile/x86/rc.exe"
+      - "C:/Program Files/VisionMaster4.4.0/Applications/PublicFile/x86/rc"
+      - "C:/Program Files/VisionMaster4.4.0/MVDAlgorithmSDK/Runtime/win32/rc.com"
+      - "C:/Program Files/VisionMaster4.4.0/MVDAlgorithmSDK/Runtime/win32/rc.exe"
+      - "C:/Program Files/VisionMaster4.4.0/MVDAlgorithmSDK/Runtime/win32/rc"
+      - "C:/Program Files/VisionMaster4.4.0/MVDAlgorithmSDK/Runtime/x64/rc.com"
+      - "C:/Program Files/VisionMaster4.4.0/MVDAlgorithmSDK/Runtime/x64/rc.exe"
+      - "C:/Program Files/VisionMaster4.4.0/MVDAlgorithmSDK/Runtime/x64/rc"
+      - "C:/Program Files (x86)/Common Files/MVS/Runtime/Win32_i86/rc.com"
+      - "C:/Program Files (x86)/Common Files/MVS/Runtime/Win32_i86/rc.exe"
+      - "C:/Program Files (x86)/Common Files/MVS/Runtime/Win32_i86/rc"
+      - "C:/Program Files (x86)/Common Files/MVS/Runtime/Win64_x64/rc.com"
+      - "C:/Program Files (x86)/Common Files/MVS/Runtime/Win64_x64/rc.exe"
+      - "C:/Program Files (x86)/Common Files/MVS/Runtime/Win64_x64/rc"
+      - "C:/Program Files/Basler/pylon 7/Runtime/x64/rc.com"
+      - "C:/Program Files/Basler/pylon 7/Runtime/x64/rc.exe"
+      - "C:/Program Files/Basler/pylon 7/Runtime/x64/rc"
+      - "C:/Program Files/Basler/pylon 7/Runtime/Win32/rc.com"
+      - "C:/Program Files/Basler/pylon 7/Runtime/Win32/rc.exe"
+      - "C:/Program Files/Basler/pylon 7/Runtime/Win32/rc"
+      - "C:/Windows/System32/rc.com"
+      - "C:/Windows/System32/rc.exe"
+      - "C:/Windows/System32/rc"
+      - "C:/Windows/rc.com"
+      - "C:/Windows/rc.exe"
+      - "C:/Windows/rc"
+      - "C:/Windows/System32/wbem/rc.com"
+      - "C:/Windows/System32/wbem/rc.exe"
+      - "C:/Windows/System32/wbem/rc"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/rc.com"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/rc.exe"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/rc"
+      - "C:/Windows/System32/OpenSSH/rc.com"
+      - "C:/Windows/System32/OpenSSH/rc.exe"
+      - "C:/Windows/System32/OpenSSH/rc"
+      - "C:/Program Files/Microsoft SQL Server/150/Tools/Binn/rc.com"
+      - "C:/Program Files/Microsoft SQL Server/150/Tools/Binn/rc.exe"
+      - "C:/Program Files/Microsoft SQL Server/150/Tools/Binn/rc"
+      - "C:/Program Files/Microsoft SQL Server/Client SDK/ODBC/170/Tools/Binn/rc.com"
+      - "C:/Program Files/Microsoft SQL Server/Client SDK/ODBC/170/Tools/Binn/rc.exe"
+      - "C:/Program Files/Microsoft SQL Server/Client SDK/ODBC/170/Tools/Binn/rc"
+      - "C:/Program Files/dotnet/rc.com"
+      - "C:/Program Files/dotnet/rc.exe"
+      - "C:/Program Files/dotnet/rc"
+      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/rc.com"
+      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/rc.exe"
+      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/rc"
+      - "C:/Program Files/Git/cmd/rc.com"
+      - "C:/Program Files/Git/cmd/rc.exe"
+      - "C:/Program Files/Git/cmd/rc"
+      - "C:/Program Files/nodejs/rc.com"
+      - "C:/Program Files/nodejs/rc.exe"
+      - "C:/Program Files/nodejs/rc"
+      - "C:/Program Files/cursor/resources/app/bin/rc.com"
+      - "C:/Program Files/cursor/resources/app/bin/rc.exe"
+      - "C:/Program Files/cursor/resources/app/bin/rc"
+      - "C:/Program Files/VisionMaster4.3.0/Applications/PublicFile/x64/rc.com"
+      - "C:/Program Files/VisionMaster4.3.0/Applications/PublicFile/x64/rc.exe"
+      - "C:/Program Files/VisionMaster4.3.0/Applications/PublicFile/x64/rc"
+      - "C:/Program Files/VisionMaster4.3.0/Applications/PublicFile/x86/rc.com"
+      - "C:/Program Files/VisionMaster4.3.0/Applications/PublicFile/x86/rc.exe"
+      - "C:/Program Files/VisionMaster4.3.0/Applications/PublicFile/x86/rc"
+      - "C:/Program Files (x86)/MVDAlgorithmSDK/Runtime/Win32/rc.com"
+      - "C:/Program Files (x86)/MVDAlgorithmSDK/Runtime/Win32/rc.exe"
+      - "C:/Program Files (x86)/MVDAlgorithmSDK/Runtime/Win32/rc"
+      - "C:/Program Files (x86)/MVDAlgorithmSDK/Runtime/x64/rc.com"
+      - "C:/Program Files (x86)/MVDAlgorithmSDK/Runtime/x64/rc.exe"
+      - "C:/Program Files (x86)/MVDAlgorithmSDK/Runtime/x64/rc"
+      - "C:/Users/goney/AppData/Local/Programs/MVTec/HALCON-25.05-Progress/bin/x64-win64/rc.com"
+      - "C:/Users/goney/AppData/Local/Programs/MVTec/HALCON-25.05-Progress/bin/x64-win64/rc.exe"
+      - "C:/Users/goney/AppData/Local/Programs/MVTec/HALCON-25.05-Progress/bin/x64-win64/rc"
+      - "C:/Users/goney/AppData/Local/Programs/Python/Python310/Scripts/rc.com"
+      - "C:/Users/goney/AppData/Local/Programs/Python/Python310/Scripts/rc.exe"
+      - "C:/Users/goney/AppData/Local/Programs/Python/Python310/Scripts/rc"
+      - "C:/Users/goney/AppData/Local/Programs/Python/Python310/rc.com"
+      - "C:/Users/goney/AppData/Local/Programs/Python/Python310/rc.exe"
+      - "C:/Users/goney/AppData/Local/Programs/Python/Python310/rc"
+      - "C:/Users/goney/AppData/Local/Programs/Python/Python312/Scripts/rc.com"
+      - "C:/Users/goney/AppData/Local/Programs/Python/Python312/Scripts/rc.exe"
+      - "C:/Users/goney/AppData/Local/Programs/Python/Python312/Scripts/rc"
+      - "C:/Users/goney/AppData/Local/Programs/Python/Python312/rc.com"
+      - "C:/Users/goney/AppData/Local/Programs/Python/Python312/rc.exe"
+      - "C:/Users/goney/AppData/Local/Programs/Python/Python312/rc"
+      - "C:/Users/goney/AppData/Local/Programs/Python/Launcher/rc.com"
+      - "C:/Users/goney/AppData/Local/Programs/Python/Launcher/rc.exe"
+      - "C:/Users/goney/AppData/Local/Programs/Python/Launcher/rc"
+      - "C:/Users/goney/AppData/Local/Microsoft/WindowsApps/rc.com"
+      - "C:/Users/goney/AppData/Local/Microsoft/WindowsApps/rc.exe"
+      - "C:/Users/goney/AppData/Local/Microsoft/WindowsApps/rc"
+      - "C:/Users/goney/.dotnet/tools/rc.com"
+      - "C:/Users/goney/.dotnet/tools/rc.exe"
+      - "C:/Users/goney/.dotnet/tools/rc"
+      - "C:/Users/goney/AppData/Local/Programs/Microsoft VS Code/bin/rc.com"
+      - "C:/Users/goney/AppData/Local/Programs/Microsoft VS Code/bin/rc.exe"
+      - "C:/Users/goney/AppData/Local/Programs/Microsoft VS Code/bin/rc"
+      - "C:/Users/goney/AppData/Roaming/npm/rc.com"
+      - "C:/Users/goney/AppData/Roaming/npm/rc.exe"
+      - "C:/Users/goney/AppData/Roaming/npm/rc"
+      - "C:/Users/goney/.local/bin/rc.com"
+      - "C:/Users/goney/.local/bin/rc.exe"
+      - "C:/Users/goney/.local/bin/rc"
+      - "C:/Users/goney/AppData/Local/Programs/Antigravity/bin/rc.com"
+      - "C:/Users/goney/AppData/Local/Programs/Antigravity/bin/rc.exe"
+      - "C:/Users/goney/AppData/Local/Programs/Antigravity/bin/rc"
+      - "C:/opencv/build/x64/vc16/bin/rc.com"
+      - "C:/opencv/build/x64/vc16/bin/rc.exe"
+      - "C:/opencv/build/x64/vc16/bin/rc"
+      - "C:/Program Files/bin/rc.com"
+      - "C:/Program Files/bin/rc.exe"
+      - "C:/Program Files/bin/rc"
+      - "C:/Program Files/sbin/rc.com"
+      - "C:/Program Files/sbin/rc.exe"
+      - "C:/Program Files/sbin/rc"
+      - "C:/Program Files/rc.com"
+      - "C:/Program Files/rc.exe"
+      - "C:/Program Files/rc"
+      - "C:/Program Files (x86)/bin/rc.com"
+      - "C:/Program Files (x86)/bin/rc.exe"
+      - "C:/Program Files (x86)/bin/rc"
+      - "C:/Program Files (x86)/sbin/rc.com"
+      - "C:/Program Files (x86)/sbin/rc.exe"
+      - "C:/Program Files (x86)/sbin/rc"
+      - "C:/Program Files (x86)/rc.com"
+      - "C:/Program Files (x86)/rc.exe"
+      - "C:/Program Files (x86)/rc"
+      - "C:/Program Files/CMake/bin/rc.com"
+      - "C:/Program Files/CMake/bin/rc.exe"
+      - "C:/Program Files/CMake/bin/rc"
+      - "C:/Program Files/CMake/sbin/rc.com"
+      - "C:/Program Files/CMake/sbin/rc.exe"
+      - "C:/Program Files/CMake/sbin/rc"
+      - "C:/Program Files/CMake/rc.com"
+      - "C:/Program Files/CMake/rc.exe"
+      - "C:/Program Files/CMake/rc"
+      - "C:/Program Files (x86)/sbm_subpixel_python/bin/rc.com"
+      - "C:/Program Files (x86)/sbm_subpixel_python/bin/rc.exe"
+      - "C:/Program Files (x86)/sbm_subpixel_python/bin/rc"
+      - "C:/Program Files (x86)/sbm_subpixel_python/sbin/rc.com"
+      - "C:/Program Files (x86)/sbm_subpixel_python/sbin/rc.exe"
+      - "C:/Program Files (x86)/sbm_subpixel_python/sbin/rc"
+      - "C:/Program Files (x86)/sbm_subpixel_python/rc.com"
+      - "C:/Program Files (x86)/sbm_subpixel_python/rc.exe"
+      - "C:/Program Files (x86)/sbm_subpixel_python/rc"
+    found: false
+    search_context:
+      ENV{CMAKE_PREFIX_PATH}:
+        - "C:\\Program Files\\Basler\\pylon 7\\Development\\CMake\\pylon\\"
+      ENV{PATH}:
+        - "C:\\Program Files\\VisionMaster4.4.0\\Applications\\PublicFile\\x64"
+        - "C:\\Program Files\\VisionMaster4.4.0\\Applications\\PublicFile\\x86"
+        - "C:\\Program Files\\VisionMaster4.4.0\\MVDAlgorithmSDK\\Runtime\\Win32"
+        - "C:\\Program Files\\VisionMaster4.4.0\\MVDAlgorithmSDK\\Runtime\\x64"
+        - "C:\\Program Files (x86)\\Common Files\\MVS\\Runtime\\Win32_i86"
+        - "C:\\Program Files (x86)\\Common Files\\MVS\\Runtime\\Win64_x64"
+        - "C:\\Program Files\\Basler\\pylon 7\\Runtime\\x64\\"
+        - "C:\\Program Files\\Basler\\pylon 7\\Runtime\\Win32\\"
+        - "C:\\WINDOWS\\system32"
+        - "C:\\WINDOWS"
+        - "C:\\WINDOWS\\System32\\Wbem"
+        - "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\"
+        - "C:\\WINDOWS\\System32\\OpenSSH\\"
+        - "C:\\Program Files\\Microsoft SQL Server\\150\\Tools\\Binn\\"
+        - "C:\\Program Files\\Microsoft SQL Server\\Client SDK\\ODBC\\170\\Tools\\Binn\\"
+        - "C:\\Program Files\\dotnet\\"
+        - "C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance Toolkit\\"
+        - "C:\\Program Files\\Git\\cmd"
+        - "C:\\Program Files\\nodejs\\"
+        - "C:\\Program Files\\cursor\\resources\\app\\bin"
+        - "C:\\Program Files (x86)\\Common Files\\MVS\\Runtime\\Win32_i86"
+        - "C:\\Program Files (x86)\\Common Files\\MVS\\Runtime\\Win64_x64"
+        - "C:\\Program Files\\VisionMaster4.3.0\\Applications\\PublicFile\\x64"
+        - "C:\\Program Files\\VisionMaster4.3.0\\Applications\\PublicFile\\x86"
+        - "C:\\Program Files (x86)\\MVDAlgorithmSDK\\Runtime\\Win32"
+        - "C:\\Program Files (x86)\\MVDAlgorithmSDK\\Runtime\\x64"
+        - "C:\\Program Files\\Basler\\pylon 7\\Runtime\\x64\\"
+        - "C:\\Program Files\\Basler\\pylon 7\\Runtime\\Win32\\"
+        - "C:\\WINDOWS\\system32"
+        - "C:\\WINDOWS"
+        - "C:\\WINDOWS\\System32\\Wbem"
+        - "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\"
+        - "C:\\WINDOWS\\System32\\OpenSSH\\"
+        - "C:\\Program Files\\Microsoft SQL Server\\150\\Tools\\Binn\\"
+        - "C:\\Program Files\\Microsoft SQL Server\\Client SDK\\ODBC\\170\\Tools\\Binn\\"
+        - "C:\\Program Files\\dotnet\\"
+        - "C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance Toolkit\\"
+        - "C:\\Program Files\\Git\\cmd"
+        - "C:\\Program Files\\nodejs\\"
+        - "C:\\Users\\goney\\AppData\\Local\\Programs\\MVTec\\HALCON-25.05-Progress\\bin\\x64-win64"
+        - "C:\\Users\\goney\\AppData\\Local\\Programs\\Python\\Python310\\Scripts\\"
+        - "C:\\Users\\goney\\AppData\\Local\\Programs\\Python\\Python310\\"
+        - "C:\\Users\\goney\\AppData\\Local\\Programs\\Python\\Python312\\Scripts\\"
+        - "C:\\Users\\goney\\AppData\\Local\\Programs\\Python\\Python312\\"
+        - "C:\\Users\\goney\\AppData\\Local\\Programs\\Python\\Launcher\\"
+        - "C:\\Users\\goney\\AppData\\Local\\Microsoft\\WindowsApps"
+        - "C:\\Users\\goney\\.dotnet\\tools"
+        - "C:\\Users\\goney\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
+        - "C:\\Users\\goney\\AppData\\Roaming\\npm"
+        - "C:\\Users\\goney\\.local\\bin"
+        - "C:\\Users\\goney\\.local\\bin"
+        - "C:\\Users\\goney\\AppData\\Local\\Programs\\Antigravity\\bin"
+        - "C:\\opencv\\build\\x64\\vc16\\bin"
+      CMAKE_INSTALL_PREFIX: "C:/Program Files (x86)/sbm_subpixel_python"
+      CMAKE_SYSTEM_PREFIX_PATH:
+        - "C:/Program Files"
+        - "C:/Program Files (x86)"
+        - "C:/Program Files/CMake"
+        - "C:/Program Files (x86)/sbm_subpixel_python"
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-4.2/Modules/CMakeDetermineCompilerABI.cmake:83 (try_compile)"
+      - "C:/Program Files/CMake/share/cmake-4.2/Modules/CMakeTestCXXCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
+      - "CMakeLists.txt:2 (project)"
+    checks:
+      - "Detecting CXX compiler ABI info"
+    directories:
+      source: "C:/Users/goney/Downloads/shape_based_matching_subpixel-master/shape_based_matching_subpixel-master/shape_based_matching-subpixel/python_subpixel_demo/build/CMakeFiles/CMakeScratch/TryCompile-kholn1"
+      binary: "C:/Users/goney/Downloads/shape_based_matching_subpixel-master/shape_based_matching_subpixel-master/shape_based_matching-subpixel/python_subpixel_demo/build/CMakeFiles/CMakeScratch/TryCompile-kholn1"
+    cmakeVariables:
+      CMAKE_CXX_FLAGS: "/DWIN32 /D_WINDOWS /GR /EHsc"
+      CMAKE_CXX_FLAGS_DEBUG: "/Zi /Ob0 /Od /RTC1"
+      CMAKE_CXX_SCAN_FOR_MODULES: "OFF"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+    buildResult:
+      variable: "CMAKE_CXX_ABI_COMPILED"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/Users/goney/Downloads/shape_based_matching_subpixel-master/shape_based_matching_subpixel-master/shape_based_matching-subpixel/python_subpixel_demo/build/CMakeFiles/CMakeScratch/TryCompile-kholn1'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_5aa96.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
+        閫傜敤浜?.NET Framework MSBuild 鐗堟湰 17.14.18+a338add32
+        鐢熸垚鍚姩鏃堕棿涓?2026/3/6 14:38:14銆?
+        
+        鑺傜偣 1 涓婄殑椤圭洰鈥淐:\\Users\\goney\\Downloads\\shape_based_matching_subpixel-master\\shape_based_matching_subpixel-master\\shape_based_matching-subpixel\\python_subpixel_demo\\build\\CMakeFiles\\CMakeScratch\\TryCompile-kholn1\\cmTC_5aa96.vcxproj鈥?榛樿鐩爣)銆?
+        PrepareForBuild:
+          宸插惎鐢ㄧ粨鏋勫寲杈撳嚭銆傜紪璇戝櫒璇婃柇鐨勬牸寮忚缃皢鍙嶆槧閿欒灞傛缁撴瀯銆傛湁鍏宠缁嗕俊鎭紝璇峰弬闃?https://aka.ms/cpp/structured-output銆?
+          姝ｅ湪鍒涘缓鐩綍鈥淐:\\Users\\goney\\Downloads\\shape_based_matching_subpixel-master\\shape_based_matching_subpixel-master\\shape_based_matching-subpixel\\python_subpixel_demo\\build\\CMakeFiles\\CMakeScratch\\TryCompile-kholn1\\Debug\\鈥濄€?
+          姝ｅ湪鍒涘缓鐩綍鈥渃mTC_5aa96.dir\\Debug\\cmTC_5aa96.tlog\\鈥濄€?
+        InitializeBuildStatus:
+          姝ｅ湪鍒涘缓鈥渃mTC_5aa96.dir\\Debug\\cmTC_5aa96.tlog\\unsuccessfulbuild鈥濓紝鍥犱负宸叉寚瀹氣€淎lwaysCreate鈥濄€?
+          姝ｅ湪瀵光€渃mTC_5aa96.dir\\Debug\\cmTC_5aa96.tlog\\unsuccessfulbuild鈥濇墽琛?Touch 浠诲姟銆?
+        ClCompile:
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\CL.exe /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D _MBCS /D "CMAKE_INTDIR=\\"Debug\\"" /EHsc /RTC1 /MDd /GR /Fo"cmTC_5aa96.dir\\Debug\\\\" /Fd"cmTC_5aa96.dir\\Debug\\vc143.pdb" /external:W1 /TP /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-4.2\\Modules\\CMakeCXXCompilerABI.cpp"
+          鐢ㄤ簬 x64 鐨?Microsoft (R) C/C++ 浼樺寲缂栬瘧鍣?19.44.35214 鐗?
+          鐗堟潈鎵€鏈?C) Microsoft Corporation銆備繚鐣欐墍鏈夋潈鍒┿€?
+          cl /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D _MBCS /D "CMAKE_INTDIR=\\"Debug\\"" /EHsc /RTC1 /MDd /GR /Fo"cmTC_5aa96.dir\\Debug\\\\" /Fd"cmTC_5aa96.dir\\Debug\\vc143.pdb" /external:W1 /TP /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-4.2\\Modules\\CMakeCXXCompilerABI.cpp"
+          CMakeCXXCompilerABI.cpp
+        Link:
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\link.exe /OUT:"C:\\Users\\goney\\Downloads\\shape_based_matching_subpixel-master\\shape_based_matching_subpixel-master\\shape_based_matching-subpixel\\python_subpixel_demo\\build\\CMakeFiles\\CMakeScratch\\TryCompile-kholn1\\Debug\\cmTC_5aa96.exe" /INCREMENTAL /ILK:"cmTC_5aa96.dir\\Debug\\cmTC_5aa96.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/goney/Downloads/shape_based_matching_subpixel-master/shape_based_matching_subpixel-master/shape_based_matching-subpixel/python_subpixel_demo/build/CMakeFiles/CMakeScratch/TryCompile-kholn1/Debug/cmTC_5aa96.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /IMPLIB:"C:/Users/goney/Downloads/shape_based_matching_subpixel-master/shape_based_matching_subpixel-master/shape_based_matching-subpixel/python_subpixel_demo/build/CMakeFiles/CMakeScratch/TryCompile-kholn1/Debug/cmTC_5aa96.lib" /MACHINE:X64  /machine:x64 cmTC_5aa96.dir\\Debug\\CMakeCXXCompilerABI.obj
+          cmTC_5aa96.vcxproj -> C:\\Users\\goney\\Downloads\\shape_based_matching_subpixel-master\\shape_based_matching_subpixel-master\\shape_based_matching-subpixel\\python_subpixel_demo\\build\\CMakeFiles\\CMakeScratch\\TryCompile-kholn1\\Debug\\cmTC_5aa96.exe
+        FinalizeBuildStatus:
+          姝ｅ湪鍒犻櫎鏂囦欢鈥渃mTC_5aa96.dir\\Debug\\cmTC_5aa96.tlog\\unsuccessfulbuild鈥濄€?
+          姝ｅ湪瀵光€渃mTC_5aa96.dir\\Debug\\cmTC_5aa96.tlog\\cmTC_5aa96.lastbuildstate鈥濇墽琛?Touch 浠诲姟銆?
+        宸插畬鎴愮敓鎴愰」鐩€淐:\\Users\\goney\\Downloads\\shape_based_matching_subpixel-master\\shape_based_matching_subpixel-master\\shape_based_matching-subpixel\\python_subpixel_demo\\build\\CMakeFiles\\CMakeScratch\\TryCompile-kholn1\\cmTC_5aa96.vcxproj鈥?榛樿鐩爣)鐨勬搷浣溿€?
+        
+        宸叉垚鍔熺敓鎴愩€?
+            0 涓鍛?
+            0 涓敊璇?
+        
+        宸茬敤鏃堕棿 00:00:01.17
+        
+      exitCode: 0
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-4.2/Modules/CMakeDetermineCompilerABI.cmake:253 (message)"
+      - "C:/Program Files/CMake/share/cmake-4.2/Modules/CMakeTestCXXCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      Parsed CXX implicit link information:
+        link line regex: [^( *|.*[/\\])(ld[0-9]*(|\\.[a-rt-z][a-z]*|\\.s[a-np-z][a-z]*|\\.so[a-z]+)|link\\.exe|lld-link(\\.exe)?|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\\]+-)?ld|collect2)[^/\\]*( |$)]
+        linker tool regex: [^[ 	]*(->|"|[0-9]+>[ 	-]*Build:[ 	0-9]+ ms[ 	]*)?[ 	]*(([^"]*[/\\])?(ld[0-9]*(|\\.[a-rt-z][a-z]*|\\.s[a-np-z][a-z]*|\\.so[a-z]+)|link\\.exe|lld-link(\\.exe)?))("|,| |$)]
+        linker tool for 'CXX': C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.44.35207/bin/HostX64/x64/link.exe
+        implicit libs: []
+        implicit objs: []
+        implicit dirs: []
+        implicit fwks: []
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-4.2/Modules/Internal/CMakeDetermineLinkerId.cmake:38 (message)"
+      - "C:/Program Files/CMake/share/cmake-4.2/Modules/CMakeDetermineCompilerABI.cmake:299 (cmake_determine_linker_id)"
+      - "C:/Program Files/CMake/share/cmake-4.2/Modules/CMakeTestCXXCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      Running the CXX compiler's linker: "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.44.35207/bin/HostX64/x64/link.exe" "-v"
+      Microsoft (R) Incremental Linker Version 14.44.35214.0
+      Copyright (C) Microsoft Corporation.  All rights reserved.
+  -
+    kind: "find-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-4.2/Modules/FindPython/Support.cmake:2437 (find_program)"
+      - "C:/Program Files/CMake/share/cmake-4.2/Modules/FindPython3.cmake:671 (include)"
+      - "CMakeLists.txt:7 (find_package)"
+    mode: "program"
+    variable: "_Python3_EXECUTABLE_DEBUG"
+    description: "Path to a program."
+    settings:
+      SearchFramework: "NEVER"
+      SearchAppBundle: "NEVER"
+      CMAKE_FIND_USE_CMAKE_PATH: true
+      CMAKE_FIND_USE_CMAKE_ENVIRONMENT_PATH: true
+      CMAKE_FIND_USE_SYSTEM_ENVIRONMENT_PATH: true
+      CMAKE_FIND_USE_CMAKE_SYSTEM_PATH: true
+      CMAKE_FIND_USE_INSTALL_PREFIX: true
+    names:
+      - "python3.10_d"
+      - "python3_d"
+      - "python_d"
+    candidate_directories:
+      - "C:/Users/goney/AppData/Local/Programs/Python/Python310/"
+    searched_directories:
+      - "C:/Users/goney/AppData/Local/Programs/Python/Python310/python3.10_d.com"
+      - "C:/Users/goney/AppData/Local/Programs/Python/Python310/python3.10_d.exe"
+      - "C:/Users/goney/AppData/Local/Programs/Python/Python310/python3.10_d"
+      - "C:/Users/goney/AppData/Local/Programs/Python/Python310/python3_d.com"
+      - "C:/Users/goney/AppData/Local/Programs/Python/Python310/python3_d.exe"
+      - "C:/Users/goney/AppData/Local/Programs/Python/Python310/python3_d"
+      - "C:/Users/goney/AppData/Local/Programs/Python/Python310/python_d.com"
+      - "C:/Users/goney/AppData/Local/Programs/Python/Python310/python_d.exe"
+      - "C:/Users/goney/AppData/Local/Programs/Python/Python310/python_d"
+    found: false
+    search_context:
+      ENV{CMAKE_PREFIX_PATH}:
+        - "C:\\Program Files\\Basler\\pylon 7\\Development\\CMake\\pylon\\"
+      ENV{PATH}:
+        - "C:\\Program Files\\VisionMaster4.4.0\\Applications\\PublicFile\\x64"
+        - "C:\\Program Files\\VisionMaster4.4.0\\Applications\\PublicFile\\x86"
+        - "C:\\Program Files\\VisionMaster4.4.0\\MVDAlgorithmSDK\\Runtime\\Win32"
+        - "C:\\Program Files\\VisionMaster4.4.0\\MVDAlgorithmSDK\\Runtime\\x64"
+        - "C:\\Program Files (x86)\\Common Files\\MVS\\Runtime\\Win32_i86"
+        - "C:\\Program Files (x86)\\Common Files\\MVS\\Runtime\\Win64_x64"
+        - "C:\\Program Files\\Basler\\pylon 7\\Runtime\\x64\\"
+        - "C:\\Program Files\\Basler\\pylon 7\\Runtime\\Win32\\"
+        - "C:\\WINDOWS\\system32"
+        - "C:\\WINDOWS"
+        - "C:\\WINDOWS\\System32\\Wbem"
+        - "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\"
+        - "C:\\WINDOWS\\System32\\OpenSSH\\"
+        - "C:\\Program Files\\Microsoft SQL Server\\150\\Tools\\Binn\\"
+        - "C:\\Program Files\\Microsoft SQL Server\\Client SDK\\ODBC\\170\\Tools\\Binn\\"
+        - "C:\\Program Files\\dotnet\\"
+        - "C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance Toolkit\\"
+        - "C:\\Program Files\\Git\\cmd"
+        - "C:\\Program Files\\nodejs\\"
+        - "C:\\Program Files\\cursor\\resources\\app\\bin"
+        - "C:\\Program Files (x86)\\Common Files\\MVS\\Runtime\\Win32_i86"
+        - "C:\\Program Files (x86)\\Common Files\\MVS\\Runtime\\Win64_x64"
+        - "C:\\Program Files\\VisionMaster4.3.0\\Applications\\PublicFile\\x64"
+        - "C:\\Program Files\\VisionMaster4.3.0\\Applications\\PublicFile\\x86"
+        - "C:\\Program Files (x86)\\MVDAlgorithmSDK\\Runtime\\Win32"
+        - "C:\\Program Files (x86)\\MVDAlgorithmSDK\\Runtime\\x64"
+        - "C:\\Program Files\\Basler\\pylon 7\\Runtime\\x64\\"
+        - "C:\\Program Files\\Basler\\pylon 7\\Runtime\\Win32\\"
+        - "C:\\WINDOWS\\system32"
+        - "C:\\WINDOWS"
+        - "C:\\WINDOWS\\System32\\Wbem"
+        - "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\"
+        - "C:\\WINDOWS\\System32\\OpenSSH\\"
+        - "C:\\Program Files\\Microsoft SQL Server\\150\\Tools\\Binn\\"
+        - "C:\\Program Files\\Microsoft SQL Server\\Client SDK\\ODBC\\170\\Tools\\Binn\\"
+        - "C:\\Program Files\\dotnet\\"
+        - "C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance Toolkit\\"
+        - "C:\\Program Files\\Git\\cmd"
+        - "C:\\Program Files\\nodejs\\"
+        - "C:\\Users\\goney\\AppData\\Local\\Programs\\MVTec\\HALCON-25.05-Progress\\bin\\x64-win64"
+        - "C:\\Users\\goney\\AppData\\Local\\Programs\\Python\\Python310\\Scripts\\"
+        - "C:\\Users\\goney\\AppData\\Local\\Programs\\Python\\Python310\\"
+        - "C:\\Users\\goney\\AppData\\Local\\Programs\\Python\\Python312\\Scripts\\"
+        - "C:\\Users\\goney\\AppData\\Local\\Programs\\Python\\Python312\\"
+        - "C:\\Users\\goney\\AppData\\Local\\Programs\\Python\\Launcher\\"
+        - "C:\\Users\\goney\\AppData\\Local\\Microsoft\\WindowsApps"
+        - "C:\\Users\\goney\\.dotnet\\tools"
+        - "C:\\Users\\goney\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
+        - "C:\\Users\\goney\\AppData\\Roaming\\npm"
+        - "C:\\Users\\goney\\.local\\bin"
+        - "C:\\Users\\goney\\.local\\bin"
+        - "C:\\Users\\goney\\AppData\\Local\\Programs\\Antigravity\\bin"
+        - "C:\\opencv\\build\\x64\\vc16\\bin"
+      CMAKE_INSTALL_PREFIX: "C:/Program Files (x86)/sbm_subpixel_python"
+      CMAKE_SYSTEM_PREFIX_PATH:
+        - "C:/Program Files"
+        - "C:/Program Files (x86)"
+        - "C:/Program Files/CMake"
+        - "C:/Program Files (x86)/sbm_subpixel_python"
+  -
+    kind: "find-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-4.2/Modules/FindPython/Support.cmake:3201 (find_library)"
+      - "C:/Program Files/CMake/share/cmake-4.2/Modules/FindPython3.cmake:671 (include)"
+      - "CMakeLists.txt:7 (find_package)"
+    mode: "library"
+    variable: "_Python3_LIBRARY_RELEASE"
+    description: "Path to a library."
+    settings:
+      SearchFramework: "NEVER"
+      SearchAppBundle: "NEVER"
+      CMAKE_FIND_USE_CMAKE_PATH: true
+      CMAKE_FIND_USE_CMAKE_ENVIRONMENT_PATH: true
+      CMAKE_FIND_USE_SYSTEM_ENVIRONMENT_PATH: false
+      CMAKE_FIND_USE_CMAKE_SYSTEM_PATH: false
+      CMAKE_FIND_USE_INSTALL_PREFIX: true
+    names:
+      - "python310"
+      - "python3.10"
+    candidate_directories:
+      - "C:/Program Files/Basler/pylon 7/Development/CMake/pylon/lib/lib/"
+      - "C:/Program Files/Basler/pylon 7/Development/CMake/pylon/lib/libs/"
+      - "C:/Program Files/Basler/pylon 7/Development/CMake/pylon/lib/lib/python3.10/config-3.10/"
+      - "C:/Program Files/Basler/pylon 7/Development/CMake/pylon/lib/"
+      - "C:/Program Files/Basler/pylon 7/Development/CMake/pylon/lib/"
+      - "C:/Program Files/Basler/pylon 7/Development/CMake/pylon/libs/"
+      - "C:/Program Files/Basler/pylon 7/Development/CMake/pylon/lib/python3.10/config-3.10/"
+      - "C:/Program Files/Basler/pylon 7/Development/CMake/pylon/"
+      - "C:/Users/goney/AppData/Local/Programs/Python/Python310/lib/"
+      - "C:/Users/goney/AppData/Local/Programs/Python/Python310/libs/"
+      - "C:/Users/goney/AppData/Local/Programs/Python/Python310/lib/python3.10/config-3.10/"
+      - "C:/Users/goney/AppData/Local/Programs/Python/Python310/"
+    searched_directories:
+      - "C:/Program Files/Basler/pylon 7/Development/CMake/pylon/lib/lib/"
+      - "C:/Program Files/Basler/pylon 7/Development/CMake/pylon/lib/lib/"
+      - "C:/Program Files/Basler/pylon 7/Development/CMake/pylon/lib/libs/"
+      - "C:/Program Files/Basler/pylon 7/Development/CMake/pylon/lib/libs/"
+      - "C:/Program Files/Basler/pylon 7/Development/CMake/pylon/lib/lib/python3.10/config-3.10/"
+      - "C:/Program Files/Basler/pylon 7/Development/CMake/pylon/lib/lib/python3.10/config-3.10/"
+      - "C:/Program Files/Basler/pylon 7/Development/CMake/pylon/lib/"
+      - "C:/Program Files/Basler/pylon 7/Development/CMake/pylon/lib/"
+      - "C:/Program Files/Basler/pylon 7/Development/CMake/pylon/lib/"
+      - "C:/Program Files/Basler/pylon 7/Development/CMake/pylon/lib/"
+      - "C:/Program Files/Basler/pylon 7/Development/CMake/pylon/libs/"
+      - "C:/Program Files/Basler/pylon 7/Development/CMake/pylon/libs/"
+      - "C:/Program Files/Basler/pylon 7/Development/CMake/pylon/lib/python3.10/config-3.10/"
+      - "C:/Program Files/Basler/pylon 7/Development/CMake/pylon/lib/python3.10/config-3.10/"
+      - "C:/Program Files/Basler/pylon 7/Development/CMake/pylon/"
+      - "C:/Program Files/Basler/pylon 7/Development/CMake/pylon/"
+      - "C:/Users/goney/AppData/Local/Programs/Python/Python310/lib/"
+      - "C:/Users/goney/AppData/Local/Programs/Python/Python310/lib/"
+    found: "C:/Users/goney/AppData/Local/Programs/Python/Python310/libs/python310.lib"
+    search_context:
+      ENV{CMAKE_PREFIX_PATH}:
+        - "C:\\Program Files\\Basler\\pylon 7\\Development\\CMake\\pylon\\"
+      ENV{PATH}:
+        - "C:\\Program Files\\VisionMaster4.4.0\\Applications\\PublicFile\\x64"
+        - "C:\\Program Files\\VisionMaster4.4.0\\Applications\\PublicFile\\x86"
+        - "C:\\Program Files\\VisionMaster4.4.0\\MVDAlgorithmSDK\\Runtime\\Win32"
+        - "C:\\Program Files\\VisionMaster4.4.0\\MVDAlgorithmSDK\\Runtime\\x64"
+        - "C:\\Program Files (x86)\\Common Files\\MVS\\Runtime\\Win32_i86"
+        - "C:\\Program Files (x86)\\Common Files\\MVS\\Runtime\\Win64_x64"
+        - "C:\\Program Files\\Basler\\pylon 7\\Runtime\\x64\\"
+        - "C:\\Program Files\\Basler\\pylon 7\\Runtime\\Win32\\"
+        - "C:\\WINDOWS\\system32"
+        - "C:\\WINDOWS"
+        - "C:\\WINDOWS\\System32\\Wbem"
+        - "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\"
+        - "C:\\WINDOWS\\System32\\OpenSSH\\"
+        - "C:\\Program Files\\Microsoft SQL Server\\150\\Tools\\Binn\\"
+        - "C:\\Program Files\\Microsoft SQL Server\\Client SDK\\ODBC\\170\\Tools\\Binn\\"
+        - "C:\\Program Files\\dotnet\\"
+        - "C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance Toolkit\\"
+        - "C:\\Program Files\\Git\\cmd"
+        - "C:\\Program Files\\nodejs\\"
+        - "C:\\Program Files\\cursor\\resources\\app\\bin"
+        - "C:\\Program Files (x86)\\Common Files\\MVS\\Runtime\\Win32_i86"
+        - "C:\\Program Files (x86)\\Common Files\\MVS\\Runtime\\Win64_x64"
+        - "C:\\Program Files\\VisionMaster4.3.0\\Applications\\PublicFile\\x64"
+        - "C:\\Program Files\\VisionMaster4.3.0\\Applications\\PublicFile\\x86"
+        - "C:\\Program Files (x86)\\MVDAlgorithmSDK\\Runtime\\Win32"
+        - "C:\\Program Files (x86)\\MVDAlgorithmSDK\\Runtime\\x64"
+        - "C:\\Program Files\\Basler\\pylon 7\\Runtime\\x64\\"
+        - "C:\\Program Files\\Basler\\pylon 7\\Runtime\\Win32\\"
+        - "C:\\WINDOWS\\system32"
+        - "C:\\WINDOWS"
+        - "C:\\WINDOWS\\System32\\Wbem"
+        - "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\"
+        - "C:\\WINDOWS\\System32\\OpenSSH\\"
+        - "C:\\Program Files\\Microsoft SQL Server\\150\\Tools\\Binn\\"
+        - "C:\\Program Files\\Microsoft SQL Server\\Client SDK\\ODBC\\170\\Tools\\Binn\\"
+        - "C:\\Program Files\\dotnet\\"
+        - "C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance Toolkit\\"
+        - "C:\\Program Files\\Git\\cmd"
+        - "C:\\Program Files\\nodejs\\"
+        - "C:\\Users\\goney\\AppData\\Local\\Programs\\MVTec\\HALCON-25.05-Progress\\bin\\x64-win64"
+        - "C:\\Users\\goney\\AppData\\Local\\Programs\\Python\\Python310\\Scripts\\"
+        - "C:\\Users\\goney\\AppData\\Local\\Programs\\Python\\Python310\\"
+        - "C:\\Users\\goney\\AppData\\Local\\Programs\\Python\\Python312\\Scripts\\"
+        - "C:\\Users\\goney\\AppData\\Local\\Programs\\Python\\Python312\\"
+        - "C:\\Users\\goney\\AppData\\Local\\Programs\\Python\\Launcher\\"
+        - "C:\\Users\\goney\\AppData\\Local\\Microsoft\\WindowsApps"
+        - "C:\\Users\\goney\\.dotnet\\tools"
+        - "C:\\Users\\goney\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
+        - "C:\\Users\\goney\\AppData\\Roaming\\npm"
+        - "C:\\Users\\goney\\.local\\bin"
+        - "C:\\Users\\goney\\.local\\bin"
+        - "C:\\Users\\goney\\AppData\\Local\\Programs\\Antigravity\\bin"
+        - "C:\\opencv\\build\\x64\\vc16\\bin"
+      CMAKE_INSTALL_PREFIX: "C:/Program Files (x86)/sbm_subpixel_python"
+      CMAKE_SYSTEM_PREFIX_PATH:
+        - "C:/Program Files"
+        - "C:/Program Files (x86)"
+        - "C:/Program Files/CMake"
+        - "C:/Program Files (x86)/sbm_subpixel_python"
+      CMAKE_SYSTEM_LIBRARY_PATH:
+        - "C:/Program Files (x86)/sbm_subpixel_python/bin"
+        - "C:/Program Files/CMake/bin"
+        - "/bin"
+  -
+    kind: "find-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-4.2/Modules/FindPython/Support.cmake:3389 (find_library)"
+      - "C:/Program Files/CMake/share/cmake-4.2/Modules/FindPython3.cmake:671 (include)"
+      - "CMakeLists.txt:7 (find_package)"
+    mode: "library"
+    variable: "_Python3_LIBRARY_DEBUG"
+    description: "Path to a library."
+    settings:
+      SearchFramework: "NEVER"
+      SearchAppBundle: "NEVER"
+      CMAKE_FIND_USE_CMAKE_PATH: true
+      CMAKE_FIND_USE_CMAKE_ENVIRONMENT_PATH: true
+      CMAKE_FIND_USE_SYSTEM_ENVIRONMENT_PATH: true
+      CMAKE_FIND_USE_CMAKE_SYSTEM_PATH: true
+      CMAKE_FIND_USE_INSTALL_PREFIX: true
+    names:
+      - "python310_d"
+    candidate_directories:
+      - "C:/Users/goney/AppData/Local/Programs/Python/Python310/libs/"
+    searched_directories:
+      - "C:/Users/goney/AppData/Local/Programs/Python/Python310/libs/"
+    found: false
+    search_context:
+      ENV{CMAKE_PREFIX_PATH}:
+        - "C:\\Program Files\\Basler\\pylon 7\\Development\\CMake\\pylon\\"
+      ENV{PATH}:
+        - "C:\\Program Files\\VisionMaster4.4.0\\Applications\\PublicFile\\x64"
+        - "C:\\Program Files\\VisionMaster4.4.0\\Applications\\PublicFile\\x86"
+        - "C:\\Program Files\\VisionMaster4.4.0\\MVDAlgorithmSDK\\Runtime\\Win32"
+        - "C:\\Program Files\\VisionMaster4.4.0\\MVDAlgorithmSDK\\Runtime\\x64"
+        - "C:\\Program Files (x86)\\Common Files\\MVS\\Runtime\\Win32_i86"
+        - "C:\\Program Files (x86)\\Common Files\\MVS\\Runtime\\Win64_x64"
+        - "C:\\Program Files\\Basler\\pylon 7\\Runtime\\x64\\"
+        - "C:\\Program Files\\Basler\\pylon 7\\Runtime\\Win32\\"
+        - "C:\\WINDOWS\\system32"
+        - "C:\\WINDOWS"
+        - "C:\\WINDOWS\\System32\\Wbem"
+        - "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\"
+        - "C:\\WINDOWS\\System32\\OpenSSH\\"
+        - "C:\\Program Files\\Microsoft SQL Server\\150\\Tools\\Binn\\"
+        - "C:\\Program Files\\Microsoft SQL Server\\Client SDK\\ODBC\\170\\Tools\\Binn\\"
+        - "C:\\Program Files\\dotnet\\"
+        - "C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance Toolkit\\"
+        - "C:\\Program Files\\Git\\cmd"
+        - "C:\\Program Files\\nodejs\\"
+        - "C:\\Program Files\\cursor\\resources\\app\\bin"
+        - "C:\\Program Files (x86)\\Common Files\\MVS\\Runtime\\Win32_i86"
+        - "C:\\Program Files (x86)\\Common Files\\MVS\\Runtime\\Win64_x64"
+        - "C:\\Program Files\\VisionMaster4.3.0\\Applications\\PublicFile\\x64"
+        - "C:\\Program Files\\VisionMaster4.3.0\\Applications\\PublicFile\\x86"
+        - "C:\\Program Files (x86)\\MVDAlgorithmSDK\\Runtime\\Win32"
+        - "C:\\Program Files (x86)\\MVDAlgorithmSDK\\Runtime\\x64"
+        - "C:\\Program Files\\Basler\\pylon 7\\Runtime\\x64\\"
+        - "C:\\Program Files\\Basler\\pylon 7\\Runtime\\Win32\\"
+        - "C:\\WINDOWS\\system32"
+        - "C:\\WINDOWS"
+        - "C:\\WINDOWS\\System32\\Wbem"
+        - "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\"
+        - "C:\\WINDOWS\\System32\\OpenSSH\\"
+        - "C:\\Program Files\\Microsoft SQL Server\\150\\Tools\\Binn\\"
+        - "C:\\Program Files\\Microsoft SQL Server\\Client SDK\\ODBC\\170\\Tools\\Binn\\"
+        - "C:\\Program Files\\dotnet\\"
+        - "C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance Toolkit\\"
+        - "C:\\Program Files\\Git\\cmd"
+        - "C:\\Program Files\\nodejs\\"
+        - "C:\\Users\\goney\\AppData\\Local\\Programs\\MVTec\\HALCON-25.05-Progress\\bin\\x64-win64"
+        - "C:\\Users\\goney\\AppData\\Local\\Programs\\Python\\Python310\\Scripts\\"
+        - "C:\\Users\\goney\\AppData\\Local\\Programs\\Python\\Python310\\"
+        - "C:\\Users\\goney\\AppData\\Local\\Programs\\Python\\Python312\\Scripts\\"
+        - "C:\\Users\\goney\\AppData\\Local\\Programs\\Python\\Python312\\"
+        - "C:\\Users\\goney\\AppData\\Local\\Programs\\Python\\Launcher\\"
+        - "C:\\Users\\goney\\AppData\\Local\\Microsoft\\WindowsApps"
+        - "C:\\Users\\goney\\.dotnet\\tools"
+        - "C:\\Users\\goney\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
+        - "C:\\Users\\goney\\AppData\\Roaming\\npm"
+        - "C:\\Users\\goney\\.local\\bin"
+        - "C:\\Users\\goney\\.local\\bin"
+        - "C:\\Users\\goney\\AppData\\Local\\Programs\\Antigravity\\bin"
+        - "C:\\opencv\\build\\x64\\vc16\\bin"
+      CMAKE_INSTALL_PREFIX: "C:/Program Files (x86)/sbm_subpixel_python"
+      CMAKE_SYSTEM_PREFIX_PATH:
+        - "C:/Program Files"
+        - "C:/Program Files (x86)"
+        - "C:/Program Files/CMake"
+        - "C:/Program Files (x86)/sbm_subpixel_python"
+      CMAKE_SYSTEM_LIBRARY_PATH:
+        - "C:/Program Files (x86)/sbm_subpixel_python/bin"
+        - "C:/Program Files/CMake/bin"
+        - "/bin"
+  -
+    kind: "find-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-4.2/Modules/FindPython/Support.cmake:1406 (find_library)"
+      - "C:/Program Files/CMake/share/cmake-4.2/Modules/FindPython/Support.cmake:3407 (_python_find_runtime_library)"
+      - "C:/Program Files/CMake/share/cmake-4.2/Modules/FindPython3.cmake:671 (include)"
+      - "CMakeLists.txt:7 (find_package)"
+    mode: "library"
+    variable: "_Python3_RUNTIME_LIBRARY_RELEASE"
+    description: "Path to a library."
+    settings:
+      SearchFramework: "NEVER"
+      SearchAppBundle: "NEVER"
+      CMAKE_FIND_USE_CMAKE_PATH: true
+      CMAKE_FIND_USE_CMAKE_ENVIRONMENT_PATH: true
+      CMAKE_FIND_USE_SYSTEM_ENVIRONMENT_PATH: true
+      CMAKE_FIND_USE_CMAKE_SYSTEM_PATH: true
+      CMAKE_FIND_USE_INSTALL_PREFIX: true
+    names:
+      - "python310"
+      - "python3.10"
+    candidate_directories:
+      - "C:/Program Files/Basler/pylon 7/Development/CMake/pylon/lib/bin/"
+      - "C:/Program Files/Basler/pylon 7/Development/CMake/pylon/lib/"
+      - "C:/Program Files/Basler/pylon 7/Development/CMake/pylon/bin/"
+      - "C:/Program Files/Basler/pylon 7/Development/CMake/pylon/"
+      - "C:/Users/goney/AppData/Local/Programs/Python/Python310/libs/bin/"
+      - "C:/Users/goney/AppData/Local/Programs/Python/Python310/libs/"
+      - "C:/Users/goney/AppData/Local/Programs/Python/Python310/bin/"
+      - "C:/Users/goney/AppData/Local/Programs/Python/Python310/"
+      - "C:/Program Files/VisionMaster4.4.0/Applications/PublicFile/x64/bin/"
+      - "C:/Program Files/VisionMaster4.4.0/Applications/PublicFile/x64/"
+      - "C:/Program Files/VisionMaster4.4.0/Applications/PublicFile/x86/bin/"
+      - "C:/Program Files/VisionMaster4.4.0/Applications/PublicFile/x86/"
+      - "C:/Program Files/VisionMaster4.4.0/MVDAlgorithmSDK/Runtime/win32/bin/"
+      - "C:/Program Files/VisionMaster4.4.0/MVDAlgorithmSDK/Runtime/win32/"
+      - "C:/Program Files/VisionMaster4.4.0/MVDAlgorithmSDK/Runtime/x64/bin/"
+      - "C:/Program Files/VisionMaster4.4.0/MVDAlgorithmSDK/Runtime/x64/"
+      - "C:/Program Files (x86)/Common Files/MVS/Runtime/Win32_i86/bin/"
+      - "C:/Program Files (x86)/Common Files/MVS/Runtime/Win32_i86/"
+      - "C:/Program Files (x86)/Common Files/MVS/Runtime/Win64_x64/bin/"
+      - "C:/Program Files (x86)/Common Files/MVS/Runtime/Win64_x64/"
+      - "C:/Program Files/Basler/pylon 7/Runtime/x64/bin/"
+      - "C:/Program Files/Basler/pylon 7/Runtime/x64/"
+      - "C:/Program Files/Basler/pylon 7/Runtime/Win32/bin/"
+      - "C:/Program Files/Basler/pylon 7/Runtime/Win32/"
+      - "C:/Windows/System32/bin/"
+      - "C:/Windows/System32/"
+      - "C:/Windows/bin/"
+      - "C:/Windows/"
+      - "C:/Windows/System32/wbem/bin/"
+      - "C:/Windows/System32/wbem/"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/bin/"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/"
+      - "C:/Windows/System32/OpenSSH/bin/"
+      - "C:/Windows/System32/OpenSSH/"
+      - "C:/Program Files/Microsoft SQL Server/150/Tools/Binn/bin/"
+      - "C:/Program Files/Microsoft SQL Server/150/Tools/Binn/"
+      - "C:/Program Files/Microsoft SQL Server/Client SDK/ODBC/170/Tools/Binn/bin/"
+      - "C:/Program Files/Microsoft SQL Server/Client SDK/ODBC/170/Tools/Binn/"
+      - "C:/Program Files/dotnet/bin/"
+      - "C:/Program Files/dotnet/"
+      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/bin/"
+      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/"
+      - "C:/Program Files/Git/cmd/bin/"
+      - "C:/Program Files/Git/cmd/"
+      - "C:/Program Files/nodejs/bin/"
+      - "C:/Program Files/nodejs/"
+      - "C:/Program Files/cursor/resources/app/bin/bin/"
+      - "C:/Program Files/cursor/resources/app/bin/"
+      - "C:/Program Files/VisionMaster4.3.0/Applications/PublicFile/x64/bin/"
+      - "C:/Program Files/VisionMaster4.3.0/Applications/PublicFile/x64/"
+      - "C:/Program Files/VisionMaster4.3.0/Applications/PublicFile/x86/bin/"
+      - "C:/Program Files/VisionMaster4.3.0/Applications/PublicFile/x86/"
+      - "C:/Program Files (x86)/MVDAlgorithmSDK/Runtime/Win32/bin/"
+      - "C:/Program Files (x86)/MVDAlgorithmSDK/Runtime/Win32/"
+      - "C:/Program Files (x86)/MVDAlgorithmSDK/Runtime/x64/bin/"
+      - "C:/Program Files (x86)/MVDAlgorithmSDK/Runtime/x64/"
+      - "C:/Users/goney/AppData/Local/Programs/MVTec/HALCON-25.05-Progress/bin/x64-win64/bin/"
+      - "C:/Users/goney/AppData/Local/Programs/MVTec/HALCON-25.05-Progress/bin/x64-win64/"
+      - "C:/Users/goney/AppData/Local/Programs/Python/Python310/Scripts/bin/"
+      - "C:/Users/goney/AppData/Local/Programs/Python/Python310/Scripts/"
+      - "C:/Users/goney/AppData/Local/Programs/Python/Python312/Scripts/bin/"
+      - "C:/Users/goney/AppData/Local/Programs/Python/Python312/Scripts/"
+      - "C:/Users/goney/AppData/Local/Programs/Python/Python312/bin/"
+      - "C:/Users/goney/AppData/Local/Programs/Python/Python312/"
+      - "C:/Users/goney/AppData/Local/Programs/Python/Launcher/bin/"
+      - "C:/Users/goney/AppData/Local/Programs/Python/Launcher/"
+      - "C:/Users/goney/AppData/Local/Microsoft/WindowsApps/bin/"
+      - "C:/Users/goney/AppData/Local/Microsoft/WindowsApps/"
+      - "C:/Users/goney/.dotnet/tools/bin/"
+      - "C:/Users/goney/.dotnet/tools/"
+      - "C:/Users/goney/AppData/Local/Programs/Microsoft VS Code/bin/bin/"
+      - "C:/Users/goney/AppData/Local/Programs/Microsoft VS Code/bin/"
+      - "C:/Users/goney/AppData/Roaming/npm/bin/"
+      - "C:/Users/goney/AppData/Roaming/npm/"
+      - "C:/Users/goney/.local/bin/bin/"
+      - "C:/Users/goney/.local/bin/"
+      - "C:/Users/goney/AppData/Local/Programs/Antigravity/bin/bin/"
+      - "C:/Users/goney/AppData/Local/Programs/Antigravity/bin/"
+      - "C:/opencv/build/x64/vc16/bin/bin/"
+      - "C:/opencv/build/x64/vc16/bin/"
+      - "C:/Program Files/lib/bin/"
+      - "C:/Program Files/lib/"
+      - "C:/Program Files/bin/"
+      - "C:/Program Files/"
+      - "C:/Program Files (x86)/lib/bin/"
+      - "C:/Program Files (x86)/lib/"
+      - "C:/Program Files (x86)/bin/"
+      - "C:/Program Files (x86)/"
+      - "C:/Program Files/CMake/lib/bin/"
+      - "C:/Program Files/CMake/lib/"
+      - "C:/Program Files/CMake/bin/"
+      - "C:/Program Files/CMake/"
+      - "C:/Program Files (x86)/sbm_subpixel_python/lib/bin/"
+      - "C:/Program Files (x86)/sbm_subpixel_python/lib/"
+      - "C:/Program Files (x86)/sbm_subpixel_python/bin/"
+      - "C:/Program Files (x86)/sbm_subpixel_python/"
+      - "C:/Program Files (x86)/sbm_subpixel_python/bin/bin/"
+      - "C:/Program Files (x86)/sbm_subpixel_python/bin/"
+      - "C:/Program Files/CMake/bin/bin/"
+      - "C:/Program Files/CMake/bin/"
+      - "/bin/bin/"
+      - "/bin/"
+    searched_directories:
+      - "C:/Program Files/Basler/pylon 7/Development/CMake/pylon/lib/bin/"
+      - "C:/Program Files/Basler/pylon 7/Development/CMake/pylon/lib/bin/"
+      - "C:/Program Files/Basler/pylon 7/Development/CMake/pylon/lib/"
+      - "C:/Program Files/Basler/pylon 7/Development/CMake/pylon/lib/"
+      - "C:/Program Files/Basler/pylon 7/Development/CMake/pylon/bin/"
+      - "C:/Program Files/Basler/pylon 7/Development/CMake/pylon/bin/"
+      - "C:/Program Files/Basler/pylon 7/Development/CMake/pylon/"
+      - "C:/Program Files/Basler/pylon 7/Development/CMake/pylon/"
+      - "C:/Users/goney/AppData/Local/Programs/Python/Python310/libs/bin/"
+      - "C:/Users/goney/AppData/Local/Programs/Python/Python310/libs/bin/"
+      - "C:/Users/goney/AppData/Local/Programs/Python/Python310/libs/"
+      - "C:/Users/goney/AppData/Local/Programs/Python/Python310/libs/"
+      - "C:/Users/goney/AppData/Local/Programs/Python/Python310/bin/"
+      - "C:/Users/goney/AppData/Local/Programs/Python/Python310/bin/"
+    found: "C:/Users/goney/AppData/Local/Programs/Python/Python310/python310.dll"
+    search_context:
+      ENV{CMAKE_PREFIX_PATH}:
+        - "C:\\Program Files\\Basler\\pylon 7\\Development\\CMake\\pylon\\"
+      ENV{PATH}:
+        - "C:\\Program Files\\VisionMaster4.4.0\\Applications\\PublicFile\\x64"
+        - "C:\\Program Files\\VisionMaster4.4.0\\Applications\\PublicFile\\x86"
+        - "C:\\Program Files\\VisionMaster4.4.0\\MVDAlgorithmSDK\\Runtime\\Win32"
+        - "C:\\Program Files\\VisionMaster4.4.0\\MVDAlgorithmSDK\\Runtime\\x64"
+        - "C:\\Program Files (x86)\\Common Files\\MVS\\Runtime\\Win32_i86"
+        - "C:\\Program Files (x86)\\Common Files\\MVS\\Runtime\\Win64_x64"
+        - "C:\\Program Files\\Basler\\pylon 7\\Runtime\\x64\\"
+        - "C:\\Program Files\\Basler\\pylon 7\\Runtime\\Win32\\"
+        - "C:\\WINDOWS\\system32"
+        - "C:\\WINDOWS"
+        - "C:\\WINDOWS\\System32\\Wbem"
+        - "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\"
+        - "C:\\WINDOWS\\System32\\OpenSSH\\"
+        - "C:\\Program Files\\Microsoft SQL Server\\150\\Tools\\Binn\\"
+        - "C:\\Program Files\\Microsoft SQL Server\\Client SDK\\ODBC\\170\\Tools\\Binn\\"
+        - "C:\\Program Files\\dotnet\\"
+        - "C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance Toolkit\\"
+        - "C:\\Program Files\\Git\\cmd"
+        - "C:\\Program Files\\nodejs\\"
+        - "C:\\Program Files\\cursor\\resources\\app\\bin"
+        - "C:\\Program Files (x86)\\Common Files\\MVS\\Runtime\\Win32_i86"
+        - "C:\\Program Files (x86)\\Common Files\\MVS\\Runtime\\Win64_x64"
+        - "C:\\Program Files\\VisionMaster4.3.0\\Applications\\PublicFile\\x64"
+        - "C:\\Program Files\\VisionMaster4.3.0\\Applications\\PublicFile\\x86"
+        - "C:\\Program Files (x86)\\MVDAlgorithmSDK\\Runtime\\Win32"
+        - "C:\\Program Files (x86)\\MVDAlgorithmSDK\\Runtime\\x64"
+        - "C:\\Program Files\\Basler\\pylon 7\\Runtime\\x64\\"
+        - "C:\\Program Files\\Basler\\pylon 7\\Runtime\\Win32\\"
+        - "C:\\WINDOWS\\system32"
+        - "C:\\WINDOWS"
+        - "C:\\WINDOWS\\System32\\Wbem"
+        - "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\"
+        - "C:\\WINDOWS\\System32\\OpenSSH\\"
+        - "C:\\Program Files\\Microsoft SQL Server\\150\\Tools\\Binn\\"
+        - "C:\\Program Files\\Microsoft SQL Server\\Client SDK\\ODBC\\170\\Tools\\Binn\\"
+        - "C:\\Program Files\\dotnet\\"
+        - "C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance Toolkit\\"
+        - "C:\\Program Files\\Git\\cmd"
+        - "C:\\Program Files\\nodejs\\"
+        - "C:\\Users\\goney\\AppData\\Local\\Programs\\MVTec\\HALCON-25.05-Progress\\bin\\x64-win64"
+        - "C:\\Users\\goney\\AppData\\Local\\Programs\\Python\\Python310\\Scripts\\"
+        - "C:\\Users\\goney\\AppData\\Local\\Programs\\Python\\Python310\\"
+        - "C:\\Users\\goney\\AppData\\Local\\Programs\\Python\\Python312\\Scripts\\"
+        - "C:\\Users\\goney\\AppData\\Local\\Programs\\Python\\Python312\\"
+        - "C:\\Users\\goney\\AppData\\Local\\Programs\\Python\\Launcher\\"
+        - "C:\\Users\\goney\\AppData\\Local\\Microsoft\\WindowsApps"
+        - "C:\\Users\\goney\\.dotnet\\tools"
+        - "C:\\Users\\goney\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
+        - "C:\\Users\\goney\\AppData\\Roaming\\npm"
+        - "C:\\Users\\goney\\.local\\bin"
+        - "C:\\Users\\goney\\.local\\bin"
+        - "C:\\Users\\goney\\AppData\\Local\\Programs\\Antigravity\\bin"
+        - "C:\\opencv\\build\\x64\\vc16\\bin"
+      CMAKE_INSTALL_PREFIX: "C:/Program Files (x86)/sbm_subpixel_python"
+      CMAKE_SYSTEM_PREFIX_PATH:
+        - "C:/Program Files"
+        - "C:/Program Files (x86)"
+        - "C:/Program Files/CMake"
+        - "C:/Program Files (x86)/sbm_subpixel_python"
+      CMAKE_SYSTEM_LIBRARY_PATH:
+        - "C:/Program Files (x86)/sbm_subpixel_python/bin"
+        - "C:/Program Files/CMake/bin"
+        - "/bin"
+  -
+    kind: "find-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-4.2/Modules/FindPython/Support.cmake:3716 (find_path)"
+      - "C:/Program Files/CMake/share/cmake-4.2/Modules/FindPython3.cmake:671 (include)"
+      - "CMakeLists.txt:7 (find_package)"
+    mode: "path"
+    variable: "_Python3_INCLUDE_DIR"
+    description: "Path to a file."
+    settings:
+      SearchFramework: "NEVER"
+      SearchAppBundle: "NEVER"
+      CMAKE_FIND_USE_CMAKE_PATH: true
+      CMAKE_FIND_USE_CMAKE_ENVIRONMENT_PATH: true
+      CMAKE_FIND_USE_SYSTEM_ENVIRONMENT_PATH: false
+      CMAKE_FIND_USE_CMAKE_SYSTEM_PATH: false
+      CMAKE_FIND_USE_INSTALL_PREFIX: true
+    names:
+      - "Python.h"
+    candidate_directories:
+      - "C:/Program Files/Basler/pylon 7/Development/CMake/pylon/include/"
+      - "C:/Program Files/Basler/pylon 7/Development/CMake/pylon/"
+      - "C:/Users/goney/AppData/Local/Programs/Python/Python310/Include/"
+    searched_directories:
+      - "C:/Program Files/Basler/pylon 7/Development/CMake/pylon/include/Python.h"
+      - "C:/Program Files/Basler/pylon 7/Development/CMake/pylon/Python.h"
+    found: "C:/Users/goney/AppData/Local/Programs/Python/Python310/Include/"
+    search_context:
+      ENV{CMAKE_PREFIX_PATH}:
+        - "C:\\Program Files\\Basler\\pylon 7\\Development\\CMake\\pylon\\"
+      ENV{PATH}:
+        - "C:\\Program Files\\VisionMaster4.4.0\\Applications\\PublicFile\\x64"
+        - "C:\\Program Files\\VisionMaster4.4.0\\Applications\\PublicFile\\x86"
+        - "C:\\Program Files\\VisionMaster4.4.0\\MVDAlgorithmSDK\\Runtime\\Win32"
+        - "C:\\Program Files\\VisionMaster4.4.0\\MVDAlgorithmSDK\\Runtime\\x64"
+        - "C:\\Program Files (x86)\\Common Files\\MVS\\Runtime\\Win32_i86"
+        - "C:\\Program Files (x86)\\Common Files\\MVS\\Runtime\\Win64_x64"
+        - "C:\\Program Files\\Basler\\pylon 7\\Runtime\\x64\\"
+        - "C:\\Program Files\\Basler\\pylon 7\\Runtime\\Win32\\"
+        - "C:\\WINDOWS\\system32"
+        - "C:\\WINDOWS"
+        - "C:\\WINDOWS\\System32\\Wbem"
+        - "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\"
+        - "C:\\WINDOWS\\System32\\OpenSSH\\"
+        - "C:\\Program Files\\Microsoft SQL Server\\150\\Tools\\Binn\\"
+        - "C:\\Program Files\\Microsoft SQL Server\\Client SDK\\ODBC\\170\\Tools\\Binn\\"
+        - "C:\\Program Files\\dotnet\\"
+        - "C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance Toolkit\\"
+        - "C:\\Program Files\\Git\\cmd"
+        - "C:\\Program Files\\nodejs\\"
+        - "C:\\Program Files\\cursor\\resources\\app\\bin"
+        - "C:\\Program Files (x86)\\Common Files\\MVS\\Runtime\\Win32_i86"
+        - "C:\\Program Files (x86)\\Common Files\\MVS\\Runtime\\Win64_x64"
+        - "C:\\Program Files\\VisionMaster4.3.0\\Applications\\PublicFile\\x64"
+        - "C:\\Program Files\\VisionMaster4.3.0\\Applications\\PublicFile\\x86"
+        - "C:\\Program Files (x86)\\MVDAlgorithmSDK\\Runtime\\Win32"
+        - "C:\\Program Files (x86)\\MVDAlgorithmSDK\\Runtime\\x64"
+        - "C:\\Program Files\\Basler\\pylon 7\\Runtime\\x64\\"
+        - "C:\\Program Files\\Basler\\pylon 7\\Runtime\\Win32\\"
+        - "C:\\WINDOWS\\system32"
+        - "C:\\WINDOWS"
+        - "C:\\WINDOWS\\System32\\Wbem"
+        - "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\"
+        - "C:\\WINDOWS\\System32\\OpenSSH\\"
+        - "C:\\Program Files\\Microsoft SQL Server\\150\\Tools\\Binn\\"
+        - "C:\\Program Files\\Microsoft SQL Server\\Client SDK\\ODBC\\170\\Tools\\Binn\\"
+        - "C:\\Program Files\\dotnet\\"
+        - "C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance Toolkit\\"
+        - "C:\\Program Files\\Git\\cmd"
+        - "C:\\Program Files\\nodejs\\"
+        - "C:\\Users\\goney\\AppData\\Local\\Programs\\MVTec\\HALCON-25.05-Progress\\bin\\x64-win64"
+        - "C:\\Users\\goney\\AppData\\Local\\Programs\\Python\\Python310\\Scripts\\"
+        - "C:\\Users\\goney\\AppData\\Local\\Programs\\Python\\Python310\\"
+        - "C:\\Users\\goney\\AppData\\Local\\Programs\\Python\\Python312\\Scripts\\"
+        - "C:\\Users\\goney\\AppData\\Local\\Programs\\Python\\Python312\\"
+        - "C:\\Users\\goney\\AppData\\Local\\Programs\\Python\\Launcher\\"
+        - "C:\\Users\\goney\\AppData\\Local\\Microsoft\\WindowsApps"
+        - "C:\\Users\\goney\\.dotnet\\tools"
+        - "C:\\Users\\goney\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
+        - "C:\\Users\\goney\\AppData\\Roaming\\npm"
+        - "C:\\Users\\goney\\.local\\bin"
+        - "C:\\Users\\goney\\.local\\bin"
+        - "C:\\Users\\goney\\AppData\\Local\\Programs\\Antigravity\\bin"
+        - "C:\\opencv\\build\\x64\\vc16\\bin"
+      CMAKE_INSTALL_PREFIX: "C:/Program Files (x86)/sbm_subpixel_python"
+      CMAKE_SYSTEM_PREFIX_PATH:
+        - "C:/Program Files"
+        - "C:/Program Files (x86)"
+        - "C:/Program Files/CMake"
+        - "C:/Program Files (x86)/sbm_subpixel_python"
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-4.2/Modules/Internal/CheckSourceCompiles.cmake:104 (try_compile)"
+      - "C:/Program Files/CMake/share/cmake-4.2/Modules/Internal/CheckCompilerFlag.cmake:18 (cmake_check_source_compiles)"
+      - "C:/Program Files/CMake/share/cmake-4.2/Modules/CheckCXXCompilerFlag.cmake:103 (cmake_check_compiler_flag)"
+      - "C:/Users/goney/AppData/Local/Programs/Python/Python310/Lib/site-packages/pybind11/share/cmake/pybind11/pybind11Common.cmake:332 (check_cxx_compiler_flag)"
+      - "C:/Users/goney/AppData/Local/Programs/Python/Python310/Lib/site-packages/pybind11/share/cmake/pybind11/pybind11Common.cmake:404 (_pybind11_return_if_cxx_and_linker_flags_work)"
+      - "C:/Users/goney/AppData/Local/Programs/Python/Python310/Lib/site-packages/pybind11/share/cmake/pybind11/pybind11Common.cmake:438 (_pybind11_generate_lto)"
+      - "C:/Users/goney/AppData/Local/Programs/Python/Python310/Lib/site-packages/pybind11/share/cmake/pybind11/pybind11Config.cmake:257 (include)"
+      - "CMakeLists.txt:8 (find_package)"
+    checks:
+      - "Performing Test HAS_MSVC_GL_LTCG"
+    directories:
+      source: "C:/Users/goney/Downloads/shape_based_matching_subpixel-master/shape_based_matching_subpixel-master/shape_based_matching-subpixel/python_subpixel_demo/build/CMakeFiles/CMakeScratch/TryCompile-yjcnrp"
+      binary: "C:/Users/goney/Downloads/shape_based_matching_subpixel-master/shape_based_matching_subpixel-master/shape_based_matching-subpixel/python_subpixel_demo/build/CMakeFiles/CMakeScratch/TryCompile-yjcnrp"
+    cmakeVariables:
+      CMAKE_CXX_FLAGS: "/DWIN32 /D_WINDOWS /GR /EHsc"
+      CMAKE_CXX_FLAGS_DEBUG: "/Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+    buildResult:
+      variable: "HAS_MSVC_GL_LTCG"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/Users/goney/Downloads/shape_based_matching_subpixel-master/shape_based_matching_subpixel-master/shape_based_matching-subpixel/python_subpixel_demo/build/CMakeFiles/CMakeScratch/TryCompile-yjcnrp'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_c1515.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
+        閫傜敤浜?.NET Framework MSBuild 鐗堟湰 17.14.18+a338add32
+        鐢熸垚鍚姩鏃堕棿涓?2026/3/6 14:38:17銆?
+        
+        鑺傜偣 1 涓婄殑椤圭洰鈥淐:\\Users\\goney\\Downloads\\shape_based_matching_subpixel-master\\shape_based_matching_subpixel-master\\shape_based_matching-subpixel\\python_subpixel_demo\\build\\CMakeFiles\\CMakeScratch\\TryCompile-yjcnrp\\cmTC_c1515.vcxproj鈥?榛樿鐩爣)銆?
+        PrepareForBuild:
+          宸插惎鐢ㄧ粨鏋勫寲杈撳嚭銆傜紪璇戝櫒璇婃柇鐨勬牸寮忚缃皢鍙嶆槧閿欒灞傛缁撴瀯銆傛湁鍏宠缁嗕俊鎭紝璇峰弬闃?https://aka.ms/cpp/structured-output銆?
+          姝ｅ湪鍒涘缓鐩綍鈥淐:\\Users\\goney\\Downloads\\shape_based_matching_subpixel-master\\shape_based_matching_subpixel-master\\shape_based_matching-subpixel\\python_subpixel_demo\\build\\CMakeFiles\\CMakeScratch\\TryCompile-yjcnrp\\Debug\\鈥濄€?
+          姝ｅ湪鍒涘缓鐩綍鈥渃mTC_c1515.dir\\Debug\\cmTC_c1515.tlog\\鈥濄€?
+        InitializeBuildStatus:
+          姝ｅ湪鍒涘缓鈥渃mTC_c1515.dir\\Debug\\cmTC_c1515.tlog\\unsuccessfulbuild鈥濓紝鍥犱负宸叉寚瀹氣€淎lwaysCreate鈥濄€?
+          姝ｅ湪瀵光€渃mTC_c1515.dir\\Debug\\cmTC_c1515.tlog\\unsuccessfulbuild鈥濇墽琛?Touch 浠诲姟銆?
+        ClCompile:
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\CL.exe /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /GL /D _MBCS /D WIN32 /D _WINDOWS /D HAS_MSVC_GL_LTCG /D _MBCS /D "CMAKE_INTDIR=\\"Debug\\"" /EHsc /RTC1 /MDd /GR /std:c++17 /Fo"cmTC_c1515.dir\\Debug\\\\" /Fd"cmTC_c1515.dir\\Debug\\vc143.pdb" /external:W1 /TP /errorReport:queue "C:\\Users\\goney\\Downloads\\shape_based_matching_subpixel-master\\shape_based_matching_subpixel-master\\shape_based_matching-subpixel\\python_subpixel_demo\\build\\CMakeFiles\\CMakeScratch\\TryCompile-yjcnrp\\src.cxx"
+          鐢ㄤ簬 x64 鐨?Microsoft (R) C/C++ 浼樺寲缂栬瘧鍣?19.44.35214 鐗?
+          鐗堟潈鎵€鏈?C) Microsoft Corporation銆備繚鐣欐墍鏈夋潈鍒┿€?
+          cl /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /GL /D _MBCS /D WIN32 /D _WINDOWS /D HAS_MSVC_GL_LTCG /D _MBCS /D "CMAKE_INTDIR=\\"Debug\\"" /EHsc /RTC1 /MDd /GR /std:c++17 /Fo"cmTC_c1515.dir\\Debug\\\\" /Fd"cmTC_c1515.dir\\Debug\\vc143.pdb" /external:W1 /TP /errorReport:queue "C:\\Users\\goney\\Downloads\\shape_based_matching_subpixel-master\\shape_based_matching_subpixel-master\\shape_based_matching-subpixel\\python_subpixel_demo\\build\\CMakeFiles\\CMakeScratch\\TryCompile-yjcnrp\\src.cxx"
+          src.cxx
+        Link:
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\link.exe /OUT:"C:\\Users\\goney\\Downloads\\shape_based_matching_subpixel-master\\shape_based_matching_subpixel-master\\shape_based_matching-subpixel\\python_subpixel_demo\\build\\CMakeFiles\\CMakeScratch\\TryCompile-yjcnrp\\Debug\\cmTC_c1515.exe" /INCREMENTAL /ILK:"cmTC_c1515.dir\\Debug\\cmTC_c1515.ilk" /NOLOGO "-LTCG" kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/goney/Downloads/shape_based_matching_subpixel-master/shape_based_matching_subpixel-master/shape_based_matching-subpixel/python_subpixel_demo/build/CMakeFiles/CMakeScratch/TryCompile-yjcnrp/Debug/cmTC_c1515.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /IMPLIB:"C:/Users/goney/Downloads/shape_based_matching_subpixel-master/shape_based_matching_subpixel-master/shape_based_matching-subpixel/python_subpixel_demo/build/CMakeFiles/CMakeScratch/TryCompile-yjcnrp/Debug/cmTC_c1515.lib" /MACHINE:X64  /machine:x64 cmTC_c1515.dir\\Debug\\src.obj
+        LINK : warning LNK4075: 蹇界暐鈥?INCREMENTAL鈥?鐢变簬鈥?LTCG鈥濊鑼? [C:\\Users\\goney\\Downloads\\shape_based_matching_subpixel-master\\shape_based_matching_subpixel-master\\shape_based_matching-subpixel\\python_subpixel_demo\\build\\CMakeFiles\\CMakeScratch\\TryCompile-yjcnrp\\cmTC_c1515.vcxproj]
+          姝ｅ湪鐢熸垚浠ｇ爜
+          宸插畬鎴愪唬鐮佺殑鐢熸垚
+          cmTC_c1515.vcxproj -> C:\\Users\\goney\\Downloads\\shape_based_matching_subpixel-master\\shape_based_matching_subpixel-master\\shape_based_matching-subpixel\\python_subpixel_demo\\build\\CMakeFiles\\CMakeScratch\\TryCompile-yjcnrp\\Debug\\cmTC_c1515.exe
+        FinalizeBuildStatus:
+          姝ｅ湪鍒犻櫎鏂囦欢鈥渃mTC_c1515.dir\\Debug\\cmTC_c1515.tlog\\unsuccessfulbuild鈥濄€?
+          姝ｅ湪瀵光€渃mTC_c1515.dir\\Debug\\cmTC_c1515.tlog\\cmTC_c1515.lastbuildstate鈥濇墽琛?Touch 浠诲姟銆?
+        宸插畬鎴愮敓鎴愰」鐩€淐:\\Users\\goney\\Downloads\\shape_based_matching_subpixel-master\\shape_based_matching_subpixel-master\\shape_based_matching-subpixel\\python_subpixel_demo\\build\\CMakeFiles\\CMakeScratch\\TryCompile-yjcnrp\\cmTC_c1515.vcxproj鈥?榛樿鐩爣)鐨勬搷浣溿€?
+        
+        宸叉垚鍔熺敓鎴愩€?
+        
+        鈥淐:\\Users\\goney\\Downloads\\shape_based_matching_subpixel-master\\shape_based_matching_subpixel-master\\shape_based_matching-subpixel\\python_subpixel_demo\\build\\CMakeFiles\\CMakeScratch\\TryCompile-yjcnrp\\cmTC_c1515.vcxproj鈥?榛樿鐩爣) (1) ->
+        (Link 鐩爣) -> 
+          LINK : warning LNK4075: 蹇界暐鈥?INCREMENTAL鈥?鐢变簬鈥?LTCG鈥濊鑼? [C:\\Users\\goney\\Downloads\\shape_based_matching_subpixel-master\\shape_based_matching_subpixel-master\\shape_based_matching-subpixel\\python_subpixel_demo\\build\\CMakeFiles\\CMakeScratch\\TryCompile-yjcnrp\\cmTC_c1515.vcxproj]
+        
+            1 涓鍛?
+            0 涓敊璇?
+        
+        宸茬敤鏃堕棿 00:00:00.96
+        
+      exitCode: 0
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-4.2/Modules/FindOpenMP.cmake:333 (try_compile)"
+      - "C:/Program Files/CMake/share/cmake-4.2/Modules/FindOpenMP.cmake:640 (_OPENMP_GET_FLAGS)"
+      - "CMakeLists.txt:11 (find_package)"
+    description: "Detecting CXX OpenMP compiler info"
+    directories:
+      source: "C:/Users/goney/Downloads/shape_based_matching_subpixel-master/shape_based_matching_subpixel-master/shape_based_matching-subpixel/python_subpixel_demo/build/CMakeFiles/CMakeScratch/TryCompile-0p35v0"
+      binary: "C:/Users/goney/Downloads/shape_based_matching_subpixel-master/shape_based_matching_subpixel-master/shape_based_matching-subpixel/python_subpixel_demo/build/CMakeFiles/CMakeScratch/TryCompile-0p35v0"
+    cmakeVariables:
+      CMAKE_CXX_FLAGS: "/DWIN32 /D_WINDOWS /GR /EHsc"
+      CMAKE_CXX_FLAGS_DEBUG: "/Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+    buildResult:
+      variable: "OpenMP_COMPILE_RESULT_CXX_openmp"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/Users/goney/Downloads/shape_based_matching_subpixel-master/shape_based_matching_subpixel-master/shape_based_matching-subpixel/python_subpixel_demo/build/CMakeFiles/CMakeScratch/TryCompile-0p35v0'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_c4325.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
+        閫傜敤浜?.NET Framework MSBuild 鐗堟湰 17.14.18+a338add32
+        鐢熸垚鍚姩鏃堕棿涓?2026/3/6 14:38:19銆?
+        
+        鑺傜偣 1 涓婄殑椤圭洰鈥淐:\\Users\\goney\\Downloads\\shape_based_matching_subpixel-master\\shape_based_matching_subpixel-master\\shape_based_matching-subpixel\\python_subpixel_demo\\build\\CMakeFiles\\CMakeScratch\\TryCompile-0p35v0\\cmTC_c4325.vcxproj鈥?榛樿鐩爣)銆?
+        PrepareForBuild:
+          宸插惎鐢ㄧ粨鏋勫寲杈撳嚭銆傜紪璇戝櫒璇婃柇鐨勬牸寮忚缃皢鍙嶆槧閿欒灞傛缁撴瀯銆傛湁鍏宠缁嗕俊鎭紝璇峰弬闃?https://aka.ms/cpp/structured-output銆?
+          姝ｅ湪鍒涘缓鐩綍鈥淐:\\Users\\goney\\Downloads\\shape_based_matching_subpixel-master\\shape_based_matching_subpixel-master\\shape_based_matching-subpixel\\python_subpixel_demo\\build\\CMakeFiles\\CMakeScratch\\TryCompile-0p35v0\\Debug\\鈥濄€?
+          姝ｅ湪鍒涘缓鐩綍鈥渃mTC_c4325.dir\\Debug\\cmTC_c4325.tlog\\鈥濄€?
+        InitializeBuildStatus:
+          姝ｅ湪鍒涘缓鈥渃mTC_c4325.dir\\Debug\\cmTC_c4325.tlog\\unsuccessfulbuild鈥濓紝鍥犱负宸叉寚瀹氣€淎lwaysCreate鈥濄€?
+          姝ｅ湪瀵光€渃mTC_c4325.dir\\Debug\\cmTC_c4325.tlog\\unsuccessfulbuild鈥濇墽琛?Touch 浠诲姟銆?
+        ClCompile:
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\CL.exe /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D _MBCS /D "CMAKE_INTDIR=\\"Debug\\"" /EHsc /RTC1 /MDd /GR /openmp /std:c++17 /Fo"cmTC_c4325.dir\\Debug\\\\" /Fd"cmTC_c4325.dir\\Debug\\vc143.pdb" /external:W1 /TP /errorReport:queue "C:\\Users\\goney\\Downloads\\shape_based_matching_subpixel-master\\shape_based_matching_subpixel-master\\shape_based_matching-subpixel\\python_subpixel_demo\\build\\CMakeFiles\\CMakeScratch\\TryCompile-0p35v0\\OpenMPTryFlag.cpp"
+          鐢ㄤ簬 x64 鐨?Microsoft (R) C/C++ 浼樺寲缂栬瘧鍣?19.44.35214 鐗?
+          鐗堟潈鎵€鏈?C) Microsoft Corporation銆備繚鐣欐墍鏈夋潈鍒┿€?
+          cl /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D _MBCS /D "CMAKE_INTDIR=\\"Debug\\"" /EHsc /RTC1 /MDd /GR /openmp /std:c++17 /Fo"cmTC_c4325.dir\\Debug\\\\" /Fd"cmTC_c4325.dir\\Debug\\vc143.pdb" /external:W1 /TP /errorReport:queue "C:\\Users\\goney\\Downloads\\shape_based_matching_subpixel-master\\shape_based_matching_subpixel-master\\shape_based_matching-subpixel\\python_subpixel_demo\\build\\CMakeFiles\\CMakeScratch\\TryCompile-0p35v0\\OpenMPTryFlag.cpp"
+          OpenMPTryFlag.cpp
+        Link:
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\link.exe /OUT:"C:\\Users\\goney\\Downloads\\shape_based_matching_subpixel-master\\shape_based_matching_subpixel-master\\shape_based_matching-subpixel\\python_subpixel_demo\\build\\CMakeFiles\\CMakeScratch\\TryCompile-0p35v0\\Debug\\cmTC_c4325.exe" /INCREMENTAL /ILK:"cmTC_c4325.dir\\Debug\\cmTC_c4325.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/goney/Downloads/shape_based_matching_subpixel-master/shape_based_matching_subpixel-master/shape_based_matching-subpixel/python_subpixel_demo/build/CMakeFiles/CMakeScratch/TryCompile-0p35v0/Debug/cmTC_c4325.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /IMPLIB:"C:/Users/goney/Downloads/shape_based_matching_subpixel-master/shape_based_matching_subpixel-master/shape_based_matching-subpixel/python_subpixel_demo/build/CMakeFiles/CMakeScratch/TryCompile-0p35v0/Debug/cmTC_c4325.lib" /MACHINE:X64  /machine:x64 cmTC_c4325.dir\\Debug\\OpenMPTryFlag.obj
+          cmTC_c4325.vcxproj -> C:\\Users\\goney\\Downloads\\shape_based_matching_subpixel-master\\shape_based_matching_subpixel-master\\shape_based_matching-subpixel\\python_subpixel_demo\\build\\CMakeFiles\\CMakeScratch\\TryCompile-0p35v0\\Debug\\cmTC_c4325.exe
+        FinalizeBuildStatus:
+          姝ｅ湪鍒犻櫎鏂囦欢鈥渃mTC_c4325.dir\\Debug\\cmTC_c4325.tlog\\unsuccessfulbuild鈥濄€?
+          姝ｅ湪瀵光€渃mTC_c4325.dir\\Debug\\cmTC_c4325.tlog\\cmTC_c4325.lastbuildstate鈥濇墽琛?Touch 浠诲姟銆?
+        宸插畬鎴愮敓鎴愰」鐩€淐:\\Users\\goney\\Downloads\\shape_based_matching_subpixel-master\\shape_based_matching_subpixel-master\\shape_based_matching-subpixel\\python_subpixel_demo\\build\\CMakeFiles\\CMakeScratch\\TryCompile-0p35v0\\cmTC_c4325.vcxproj鈥?榛樿鐩爣)鐨勬搷浣溿€?
+        
+        宸叉垚鍔熺敓鎴愩€?
+            0 涓鍛?
+            0 涓敊璇?
+        
+        宸茬敤鏃堕棿 00:00:00.90
+        
+      exitCode: 0
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-4.2/Modules/FindOpenMP.cmake:574 (try_compile)"
+      - "C:/Program Files/CMake/share/cmake-4.2/Modules/FindOpenMP.cmake:714 (_OPENMP_GET_SPEC_DATE)"
+      - "CMakeLists.txt:11 (find_package)"
+    description: "Detecting CXX OpenMP version"
+    directories:
+      source: "C:/Users/goney/Downloads/shape_based_matching_subpixel-master/shape_based_matching_subpixel-master/shape_based_matching-subpixel/python_subpixel_demo/build/CMakeFiles/CMakeScratch/TryCompile-kg8zez"
+      binary: "C:/Users/goney/Downloads/shape_based_matching_subpixel-master/shape_based_matching_subpixel-master/shape_based_matching-subpixel/python_subpixel_demo/build/CMakeFiles/CMakeScratch/TryCompile-kg8zez"
+    cmakeVariables:
+      CMAKE_CXX_FLAGS: "/DWIN32 /D_WINDOWS /GR /EHsc"
+      CMAKE_CXX_FLAGS_DEBUG: "/Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+    buildResult:
+      variable: "OpenMP_SPECTEST_CXX_"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/Users/goney/Downloads/shape_based_matching_subpixel-master/shape_based_matching_subpixel-master/shape_based_matching-subpixel/python_subpixel_demo/build/CMakeFiles/CMakeScratch/TryCompile-kg8zez'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_ac91d.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
+        閫傜敤浜?.NET Framework MSBuild 鐗堟湰 17.14.18+a338add32
+        鐢熸垚鍚姩鏃堕棿涓?2026/3/6 14:38:20銆?
+        
+        鑺傜偣 1 涓婄殑椤圭洰鈥淐:\\Users\\goney\\Downloads\\shape_based_matching_subpixel-master\\shape_based_matching_subpixel-master\\shape_based_matching-subpixel\\python_subpixel_demo\\build\\CMakeFiles\\CMakeScratch\\TryCompile-kg8zez\\cmTC_ac91d.vcxproj鈥?榛樿鐩爣)銆?
+        PrepareForBuild:
+          宸插惎鐢ㄧ粨鏋勫寲杈撳嚭銆傜紪璇戝櫒璇婃柇鐨勬牸寮忚缃皢鍙嶆槧閿欒灞傛缁撴瀯銆傛湁鍏宠缁嗕俊鎭紝璇峰弬闃?https://aka.ms/cpp/structured-output銆?
+          姝ｅ湪鍒涘缓鐩綍鈥淐:\\Users\\goney\\Downloads\\shape_based_matching_subpixel-master\\shape_based_matching_subpixel-master\\shape_based_matching-subpixel\\python_subpixel_demo\\build\\CMakeFiles\\CMakeScratch\\TryCompile-kg8zez\\Debug\\鈥濄€?
+          姝ｅ湪鍒涘缓鐩綍鈥渃mTC_ac91d.dir\\Debug\\cmTC_ac91d.tlog\\鈥濄€?
+        InitializeBuildStatus:
+          姝ｅ湪鍒涘缓鈥渃mTC_ac91d.dir\\Debug\\cmTC_ac91d.tlog\\unsuccessfulbuild鈥濓紝鍥犱负宸叉寚瀹氣€淎lwaysCreate鈥濄€?
+          姝ｅ湪瀵光€渃mTC_ac91d.dir\\Debug\\cmTC_ac91d.tlog\\unsuccessfulbuild鈥濇墽琛?Touch 浠诲姟銆?
+        ClCompile:
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\CL.exe /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D _MBCS /D "CMAKE_INTDIR=\\"Debug\\"" /EHsc /RTC1 /MDd /GR /openmp /std:c++17 /Fo"cmTC_ac91d.dir\\Debug\\\\" /Fd"cmTC_ac91d.dir\\Debug\\vc143.pdb" /external:W1 /TP /errorReport:queue "C:\\Users\\goney\\Downloads\\shape_based_matching_subpixel-master\\shape_based_matching_subpixel-master\\shape_based_matching-subpixel\\python_subpixel_demo\\build\\CMakeFiles\\CMakeScratch\\TryCompile-kg8zez\\OpenMPCheckVersion.cpp"
+          鐢ㄤ簬 x64 鐨?Microsoft (R) C/C++ 浼樺寲缂栬瘧鍣?19.44.35214 鐗?
+          鐗堟潈鎵€鏈?C) Microsoft Corporation銆備繚鐣欐墍鏈夋潈鍒┿€?
+          cl /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D _MBCS /D "CMAKE_INTDIR=\\"Debug\\"" /EHsc /RTC1 /MDd /GR /openmp /std:c++17 /Fo"cmTC_ac91d.dir\\Debug\\\\" /Fd"cmTC_ac91d.dir\\Debug\\vc143.pdb" /external:W1 /TP /errorReport:queue "C:\\Users\\goney\\Downloads\\shape_based_matching_subpixel-master\\shape_based_matching_subpixel-master\\shape_based_matching-subpixel\\python_subpixel_demo\\build\\CMakeFiles\\CMakeScratch\\TryCompile-kg8zez\\OpenMPCheckVersion.cpp"
+          OpenMPCheckVersion.cpp
+        Link:
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\link.exe /OUT:"C:\\Users\\goney\\Downloads\\shape_based_matching_subpixel-master\\shape_based_matching_subpixel-master\\shape_based_matching-subpixel\\python_subpixel_demo\\build\\CMakeFiles\\CMakeScratch\\TryCompile-kg8zez\\Debug\\cmTC_ac91d.exe" /INCREMENTAL /ILK:"cmTC_ac91d.dir\\Debug\\cmTC_ac91d.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/goney/Downloads/shape_based_matching_subpixel-master/shape_based_matching_subpixel-master/shape_based_matching-subpixel/python_subpixel_demo/build/CMakeFiles/CMakeScratch/TryCompile-kg8zez/Debug/cmTC_ac91d.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /IMPLIB:"C:/Users/goney/Downloads/shape_based_matching_subpixel-master/shape_based_matching_subpixel-master/shape_based_matching-subpixel/python_subpixel_demo/build/CMakeFiles/CMakeScratch/TryCompile-kg8zez/Debug/cmTC_ac91d.lib" /MACHINE:X64  /machine:x64 cmTC_ac91d.dir\\Debug\\OpenMPCheckVersion.obj
+          cmTC_ac91d.vcxproj -> C:\\Users\\goney\\Downloads\\shape_based_matching_subpixel-master\\shape_based_matching_subpixel-master\\shape_based_matching-subpixel\\python_subpixel_demo\\build\\CMakeFiles\\CMakeScratch\\TryCompile-kg8zez\\Debug\\cmTC_ac91d.exe
+        FinalizeBuildStatus:
+          姝ｅ湪鍒犻櫎鏂囦欢鈥渃mTC_ac91d.dir\\Debug\\cmTC_ac91d.tlog\\unsuccessfulbuild鈥濄€?
+          姝ｅ湪瀵光€渃mTC_ac91d.dir\\Debug\\cmTC_ac91d.tlog\\cmTC_ac91d.lastbuildstate鈥濇墽琛?Touch 浠诲姟銆?
+        宸插畬鎴愮敓鎴愰」鐩€淐:\\Users\\goney\\Downloads\\shape_based_matching_subpixel-master\\shape_based_matching_subpixel-master\\shape_based_matching-subpixel\\python_subpixel_demo\\build\\CMakeFiles\\CMakeScratch\\TryCompile-kg8zez\\cmTC_ac91d.vcxproj鈥?榛樿鐩爣)鐨勬搷浣溿€?
+        
+        宸叉垚鍔熺敓鎴愩€?
+            0 涓鍛?
+            0 涓敊璇?
+        
+        宸茬敤鏃堕棿 00:00:00.90
+        
+      exitCode: 0
+...
