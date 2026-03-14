@@ -6,3 +6,15 @@
 # C++ 编译输出
 bin/
 obj/
+
+# 忽略 Visual Studio 编译目录
+x64/
+x86/
+bin/
+obj/
+
+# 忽略 OpenCV 相关 DLL
+*opencv*.dll
+
+# 忽略 VS 缓存
+.vs/
